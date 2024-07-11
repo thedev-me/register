@@ -77,7 +77,7 @@ Use the following structure for your JSON file.
 - `public_email`: Your public contact email
 - `github_username`: Your GitHub username
 - `description`: A brief description of your subdomain's purpose
-- `records`: DNS records for your subdomain
+- `records`: DNS records for your subdomain. Only keep the ones you need. [Learn more.](https://www.cloudflare.com/learning/dns/dns-records/)
 - `proxied`: Set to `true` if you want to use Cloudflare's proxy, `false` otherwise.
 
 
