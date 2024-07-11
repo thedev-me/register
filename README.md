@@ -1,7 +1,7 @@
 # <p align="center"> *.thedev.me - Free Subdomains </p>
 **<p align="center"> Get your free `*.thedev.me` subdomain </p>**
 
-![header](media/header.png)
+![header](media/header_round.png)
 <p align="center">
     <img src="https://img.shields.io/github/stars/thedev-me/register?label=stars&style=for-the-badge&color=FFD700" alt="GitHub stars">&nbsp;&nbsp;
     <img src="https://img.shields.io/github/directory-file-count/thedev-me/register/domains?label=domains&style=for-the-badge&color=4CAF50" alt="Domains">&nbsp;&nbsp;
