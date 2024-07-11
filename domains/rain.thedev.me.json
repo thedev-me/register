@@ -1,0 +1,14 @@
+{
+  "subdomain": "rain",
+  "domain": "thedev.me",
+  "public_email": "RainV2@proton.me",
+  "github_username": "RainInJP",
+  "description": "for my personal website(under dev)",
+
+  "records": {
+    "CNAME": [
+      "godtieruser.neocities.org"
+    ],
+  },
+  "proxied": true
+}
