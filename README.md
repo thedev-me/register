@@ -99,3 +99,4 @@ If you need help or have questions, please open an issue in this repository or s
 If you're interested in registering subdomains similar to `*.thedev.me`, consider exploring these services:
 - [Open Domains](https://open-domains.net)
 - [is-a.dev](https://www.is-a.dev)
+- [thedev.id](https://thedev.id)
