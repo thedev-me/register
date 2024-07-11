@@ -14,7 +14,7 @@
 1. 🌟 Star and fork this repository
 2. 📰 Read our [Terms of Service](TERMS.md)
 3. 🗄️ In the `./domains` directory, create a new JSON file named `yoursubdomain.thedev.me.json`
-4. ✍️ Fill in the JSON file using the format specified below
+4. ✍️ Fill in the JSON file using the format specified below. Make sure it is valid with no trailing commas.
 5. 🫷 Submit a pull request with your changes
 6. 🤖 Automated checks will run and report any JSON errors (First time contributors wait for a manual trigger)
 7. ✅ After manual review and approval, your subdomain will be added
