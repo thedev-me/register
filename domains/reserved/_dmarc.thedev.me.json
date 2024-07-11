@@ -1,0 +1,14 @@
+{
+  "subdomain": "_dmarc",
+  "domain": "thedev.me",
+  "public_email": "contact@thedev.me",
+  "github_username": "thedev-me",
+  "description": "Reserved subdomain",
+
+  "records": {
+    "CNAME": ["dmarcroot.purelymail.com"]
+  },
+
+  "proxied": false
+}
+

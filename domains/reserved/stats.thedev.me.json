@@ -1,0 +1,13 @@
+{
+  "subdomain": "stats",
+  "domain": "thedev.me",
+  "public_email": "contact@thedev.me",
+  "github_username": "thedev-me",
+  "description": "Reserved subdomain",
+
+  "records": {
+    "CNAME": ["thedev.me"]
+  },
+  
+  "proxied": true
+}

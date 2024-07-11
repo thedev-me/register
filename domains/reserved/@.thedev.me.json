@@ -1,0 +1,21 @@
+{
+  "subdomain": "@",
+  "domain": "thedev.me",
+  "public_email": "contact@thedev.me",
+  "github_username": "thedev-me",
+  "description": "Reserved subdomain",
+
+  "records": {
+  "A": [
+      "192.0.2.1"
+  ],
+  "MX": [
+      "mailserver.purelymail.com"
+    ],
+  "TXT": [
+    "purelymail_ownership_proof=36d6d6716dd89bb278867245a30cad67ac0f1f3008f24fa642fcbc758ac88aa6942908b189c43bf5e344209f37e1ebf80a2285f6f94416fdcdb4815617043372",
+    "v=spf1 include:_spf.purelymail.com ~all"
+  ]
+  },
+  "proxied": true
+}
