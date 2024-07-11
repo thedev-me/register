@@ -1,1 +1,14 @@
+{
+  "subdomain": "numble",
+  "domain": "thedev.me",
+  "public_email": "contact@numble.one",
+  "github_username": "jadrsamara",
+  "description": "A number guessing game",
 
+  "records": {
+    "A": [
+      "138.3.252.145"
+    ],
+  },
+  "proxied": true
+}
