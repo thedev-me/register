@@ -16,7 +16,7 @@
 3. 🗄️ In the `./domains` directory, create a new JSON file named `yoursubdomain.thedev.me.json`
 4. ✍️ Fill in the JSON file using the format specified below
 5. 🫷 Submit a pull request with your changes
-6. 🤖 Automated checks will run and report any errors in your JSON
+6. 🤖 Automated checks will run and report any errors in your JSON (First time contributors have to wait for a manual trigger)
 7. ✅ After manual review and approval, your subdomain will be added
 
 **Important**: Passing automated checks doesn't guarantee approval. All submissions undergo manual review to ensure quality and compliance.
