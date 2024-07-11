@@ -3,9 +3,9 @@
 
 ![header](media/header.png)
 <p align="center">
-    <img src="https://img.shields.io/github/stars/thedev-me/register" alt="GitHub stars">
-    <img src="https://img.shields.io/github/issues/thedev-me/register" alt="GitHub issues">&nbsp;&nbsp;
-    <img src="https://img.shields.io/github/issues-pr/thedev-me/register" alt="GitHub pull requests">&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/stars/thedev-me/register?label=stars&style=for-the-badge&color=FFD700" alt="GitHub stars">&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/directory-file-count/thedev-me/register/domains?label=domains&style=for-the-badge&color=4CAF50" alt="Domains">&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/issues-pr/thedev-me/register?label=Pull%20Requests&style=for-the-badge&color=FFA500" alt="GitHub pull requests">&nbsp;&nbsp;
 </p>
 
 
