@@ -11,10 +11,20 @@ function isValidEmail(email) {
 function verifySubdomainMatch(subdomain, filePath) {    
     const fileName = path.basename(filePath);
     const fileNameSubdomain = fileName.split('.')[0];
+
+    // Special cases that should bypass the subdomain match check
+    const specialCases = ["purelymail1._domainkey", "purelymail2._domainkey", "purelymail3._domainkey"];
+
+    // Check if the subdomain is in the list of special cases
+    if (specialCases.includes(subdomain.toLowerCase())) {
+        return true;
+    }
+
     // Check if the filename subdomain matches the provided subdomain
     if (fileNameSubdomain.toLowerCase() === subdomain.toLowerCase()) {
         return true;
     }
+
     return false;
 }
 
