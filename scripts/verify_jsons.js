@@ -19,7 +19,7 @@ function verifySubdomainMatch(subdomain, filePath) {
 }
 
 function verifyFileFormat(fileName) {
-    const pattern = /^(@|_dmarc|[a-zA-Z0-9\-]+)\.thedev\.me\.json$/; // Expression to validate file name
+    const pattern = /^(@|_dmarc|[a-zA-Z0-9\-]+|purelymail[1-3]\._domainkey)\.thedev\.me\.json$/; // Expression to validate file name.
     const fileNameParts = fileName.split('.');
     // Expecting exactly 4 chunks after spliting AND to match the expression
     if (fileNameParts.length !== 4 || !pattern.test(fileName)) {

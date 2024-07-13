@@ -1,0 +1,13 @@
+{
+  "subdomain": "purelymail1._domainkey",
+  "domain": "thedev.me",
+  "public_email": "contact@thedev.me",
+  "github_username": "thedev-me",
+  "description": "Reserved subdomain. For emails.",
+
+  "records": {
+    "CNAME": ["key1.dkimroot.purelymail.com"]
+  },
+
+  "proxied": false
+}
