@@ -70,8 +70,6 @@ function validateJson(jsonData, filePath) {
         errors.push(':ERROR: Subdomain is empty.'); 
     } else if (subdomain.includes('*')) {
         errors.push(':ERROR: Subdomain cannot contain wildcards.');
-    } else if (subdomain.includes('.')) {
-        errors.push(':ERROR: Only third-level domains are supported. Remove the dot (.) from your subdomain name.');
     } else {
         // Verify subdomain match
         if (!verifySubdomainMatch(subdomain, filePath)) {
