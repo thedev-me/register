@@ -1,5 +1,5 @@
 # <p align="center"> *.thedev.me - Free Subdomains </p>
-**<p align="center"> Get your free `*.thedev.me` subdomain </p>**
+**<p align="center"> Get your free `{name}.thedev.me` subdomain </p>**
 
 ![header](media/header_round.png)
 <p align="center">
