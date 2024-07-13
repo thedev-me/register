@@ -12,7 +12,7 @@ function verifySubdomainMatch(subdomain, filePath) {
     const fileName = path.basename(filePath);
     const fileNameSubdomain = fileName.split('.')[0];
 
-    // Special cases that should bypass the subdomain match check
+    // Special cases that should bypass the subdomain match check. Important for the main domain and for email support
     const specialCases = ["purelymail1._domainkey", "purelymail2._domainkey", "purelymail3._domainkey"];
 
     // Check if the subdomain is in the list of special cases
@@ -90,7 +90,7 @@ function validateJson(jsonData, filePath) {
     // Validate domain
     const domain = jsonData.domain || '';
     if (!domain || domain !== "thedev.me") {
-        errors.push(':ERROR: Domain is invali d.'); 
+        errors.push(':ERROR: Domain is invalid.');
     }
 
     // Validate public email
