@@ -20,12 +20,24 @@ function verifySubdomainMatch(subdomain, filePath) {
 
 function verifyFileFormat(fileName) {
     const pattern = /^(@|_dmarc|[a-zA-Z0-9\-]+|purelymail[1-3]\._domainkey)\.thedev\.me\.json$/; // Expression to validate file name.
-    const fileNameParts = fileName.split('.');
-    // Expecting exactly 4 chunks after spliting AND to match the expression
-    if (fileNameParts.length !== 4 || !pattern.test(fileName)) {
-        return false
+
+    // Special cases that should bypass the 4-part check. Important for the main domain and for email support
+    const specialCases = ["@", "_dmarc", "purelymail1._domainkey", "purelymail2._domainkey", "purelymail3._domainkey"];
+
+    // Check if the file name matches any of the special cases
+    for (let i = 0; i < specialCases.length; i++) {
+        if (fileName.startsWith(specialCases[i] + ".thedev.me.json")) {
+            return pattern.test(fileName);
+        }
     }
-    return true
+
+    const fileNameParts = fileName.split('.');
+    // Expecting exactly 4 chunks after splitting AND to match the expression
+    if (fileNameParts.length !== 4 || !pattern.test(fileName)) {
+        return false;
+    }
+
+    return true;
 }
 
 // Helper function to validate IP addresses
