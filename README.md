@@ -1,5 +1,5 @@
 # <p align="center"> *.thedev.me - Free Subdomains </p>
-**<p align="center"> Get your free `*.thedev.me` subdomain </p>**
+**<p align="center"> Get your free `{name}.thedev.me` subdomain </p>**
 
 ![header](media/header_round.png)
 <p align="center">
@@ -14,7 +14,7 @@
 1. 🌟 Star and fork this repository
 2. 📰 Read our [Terms of Service](TERMS.md)
 3. 🗄️ In the `./domains` directory, create a new JSON file named `yoursubdomain.thedev.me.json`
-4. ✍️ Fill in the JSON file using the format specified below
+4. ✍️ Fill in the JSON file (format below). Make sure the JSON is valid with no trailing commas.
 5. 🫷 Submit a pull request with your changes
 6. 🤖 Automated checks will run and report any JSON errors (First time contributors wait for a manual trigger)
 7. ✅ After manual review and approval, your subdomain will be added
@@ -31,7 +31,7 @@
 
 ## JSON Formatting
 
-To register your subdomain, create a new JSON file in the `./domains` directory. The filename should in the following format, e.g., `yoursubdomain.thedev.me.json`.
+To register your subdomain, create a new JSON file in the `./domains` directory. The filename should be in the following format, `yoursubdomain.thedev.me.json`.
 
 Use the following structure for your JSON file.
 
