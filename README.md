@@ -12,14 +12,14 @@
 ## How to Get Your Subdomain
 
 1. 🌟 Star and fork this repository
-2. 📰 Read our [Terms of Service](TERMS.md)
+2. 📰 Read the entire README and review our [Terms of Service](TERMS.md)
 3. 🗄️ In the `./domains` directory, create a new JSON file named `yoursubdomain.thedev.me.json`
 4. ✍️ Fill in the JSON file (format below). Make sure the JSON is valid with no trailing commas.
 5. 🫷 Submit a pull request with your changes
 6. 🤖 Automated checks will run and report any JSON errors (First time contributors wait for a manual trigger)
 7. ✅ After manual review and approval, your subdomain will be added
 
-> [!IMPORTANT]  
+> [!NOTE]
 > Passing automated checks does NOT guarantee approval. All submissions undergo manual review to ensure quality and compliance.
 
 
@@ -27,7 +27,7 @@
 
 - We support **A, AAAA, CNAME, MX, and TXT** record types.
 
-- **We do NOT support wildcards or sub-subdomains.** <sub>(yet.)</sub>
+- **We do NOT support wildcards or sub-subdomains.** <sub>(yet).</sub>
 
 
 ## JSON Formatting
@@ -37,7 +37,10 @@ To register your subdomain, create a new JSON file in the `./domains` directory.
 Use the following structure for your JSON file.
 
 > [!IMPORTANT]  
-> Only keep the records you need, and change the values. For most people that will be A or CNAME records. MX and TXT records are used for emails and ownership verification. [Learn more about DNS records.](https://www.cloudflare.com/learning/dns/dns-records/)
+> Only keep the records you need, and change the values. For most people, that will be A or CNAME records. MX and TXT records are used for emails and ownership verification. [Learn more about DNS records.](https://www.cloudflare.com/learning/dns/dns-records/)
+
+> [!IMPORTANT]
+> Ensure your JSON file is valid with NO trailing commas. You can easily check the format validity [here](https://jsonlint.com).
 
 ```json
 {
