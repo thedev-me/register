@@ -1,9 +1,9 @@
 {
-  "subdomain": "yoursubdomain",
+  "subdomain": "onelife",
   "domain": "thedev.me",
-  "public_email": "user@example.com",
-  "github_username": "user",
-  "description": "A brief description of the purpose of the subdomain",
+  "public_email": "akonvr@gmail.com",
+  "github_username": "GifPpro",
+  "description": "I wanna see if this would work for a minecraft server address. (For my server)",
 
   "records": {
     "A": [
@@ -11,8 +11,8 @@
       "192.0.2.2"
     ],
     "AAAA": [
-      "2001:db8::1",
-      "2001:db8::2"
+      "ns1.playit-dns.com",
+      "ns2.playit-dns.com"
     ],
     "CNAME": [
       "example.com"
