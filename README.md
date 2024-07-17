@@ -19,7 +19,8 @@
 6. 🤖 Automated checks will run and report any JSON errors (First time contributors wait for a manual trigger)
 7. ✅ After manual review and approval, your subdomain will be added
 
-**Important**: Passing automated checks doesn't guarantee approval. All submissions undergo manual review to ensure quality and compliance.
+> [!IMPORTANT]  
+> Passing automated checks does NOT guarantee approval. All submissions undergo manual review to ensure quality and compliance.
 
 
 ## Supported Record Types
@@ -35,7 +36,8 @@ To register your subdomain, create a new JSON file in the `./domains` directory.
 
 Use the following structure for your JSON file.
 
-**IMPORTANT NOTE:** Only keep the records you need. All listed in the example below. [Learn more about DNS records.](https://www.cloudflare.com/learning/dns/dns-records/)
+> [!IMPORTANT]  
+> Only keep the records you need, and change the values. For most people that will be A or CNAME records. MX and TXT records are used for emails and ownership verification. [Learn more about DNS records.](https://www.cloudflare.com/learning/dns/dns-records/)
 
 ```json
 {
