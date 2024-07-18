@@ -53,7 +53,7 @@ for (var i = 0; i < subdomains.length; i++) {
   // NS Records
   if (subdomainData.records.NS) {
     for (var ns in subdomainData.records.NS) {
-      records.push(NS(subdomain, subdomainData.records.NS[ns] + ".", proxy));
+      records.push(NS(subdomain, subdomainData.records.NS[ns] + "."));
     }
   }
   // MX Records
