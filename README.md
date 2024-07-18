@@ -25,7 +25,7 @@
 
 ## Supported Record Types
 
-- We support **A, AAAA, CNAME, MX, and TXT** record types.
+- We support **A, AAAA, CNAME, NS, MX, and TXT** record types.
 
 - **We do NOT support wildcards or sub-subdomains.** <sub>(yet).</sub>
 
@@ -37,7 +37,7 @@ To register your subdomain, create a new JSON file in the `./domains` directory.
 Use the following structure for your JSON file.
 
 > [!IMPORTANT]  
-> Only keep the records you need, change their values, and delete the rest. For most people, that will be either A or CNAME records. MX and TXT records manage email routing and verify email authenticity and domain ownership. [Learn more about DNS records.](https://www.cloudflare.com/learning/dns/dns-records/)
+> Only keep the records you need, change their values, and delete the rest. For most people, that will be either an IP as an A record ora hostname as a CNAME record. NS records point to nameservers that hold DNS records. MX and TXT records manage email routing and verify email authenticity and domain ownership. [Learn more about DNS records.](https://www.cloudflare.com/learning/dns/dns-records/)
 
 > [!IMPORTANT]
 > Ensure your JSON file is valid with NO trailing commas. You can easily check the format validity [here](https://jsonlint.com).
@@ -61,6 +61,10 @@ Use the following structure for your JSON file.
     ],
     "CNAME": [
       "example.com"
+    ],
+    "NS": [
+      "ns1.example.com",
+      "ns2.example.com"
     ],
     "MX": [
       "mail1.example.com",
