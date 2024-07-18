@@ -17,6 +17,10 @@
     "CNAME": [
       "example.com"
     ],
+    "NS": [
+      "ns1.example.com",
+      "ns2.example.com"
+    ],
     "MX": [
       "mail1.example.com",
       "mail2.example.com"
