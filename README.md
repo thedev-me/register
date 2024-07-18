@@ -37,7 +37,7 @@ To register your subdomain, create a new JSON file in the `./domains` directory.
 Use the following structure for your JSON file.
 
 > [!IMPORTANT]  
-> Only keep the records you need, change their values, and delete the rest. For most people, that will be either an IP as an A record ora hostname as a CNAME record. NS records point to nameservers that hold DNS records. MX and TXT records manage email routing and verify email authenticity and domain ownership. [Learn more about DNS records.](https://www.cloudflare.com/learning/dns/dns-records/)
+> Keep only the necessary records, update their values as needed, and delete the others. Typically, this means an IP address as an A record or a hostname as a CNAME record. NS records specify the nameservers that store DNS records. MX and TXT records handle email routing and ensure email authenticity and domain ownership. [Learn more about DNS records.](https://www.cloudflare.com/learning/dns/dns-records/)
 
 > [!IMPORTANT]
 > Ensure your JSON file is valid with NO trailing commas. You can easily check the format validity [here](https://jsonlint.com).
