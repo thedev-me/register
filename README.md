@@ -13,7 +13,7 @@
 
 1. 🌟 Star and fork this repository
 2. 📰 Read the entire README and review our [Terms of Service](TERMS.md)
-3. 🗄️ Create a JSON file and name it `yoursubdomain.thedev.me.json` in the `./domains` directory of your forked repo.
+3. 🗄️ Create a JSON file and name it `yoursubdomain.thedev.me.json` in `./domains` of your forked repo.
 4. ✍️ Fill in the JSON file (format and instructions below). Make sure the JSON is valid with no trailing commas.
 5. 🫷 Open a pull request with your changes.
 6. 🤖 Automated checks will run and report any JSON errors. (First-time contributors await a manual trigger.)
