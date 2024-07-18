@@ -119,7 +119,7 @@ function validateJson(jsonData, filePath) {
     if (typeof records !== 'object') {
         errors.push(':ERROR: Records must be an object.');
     } else {
-        const validRecordTypes = ['A', 'AAAA', 'CNAME', 'MX', 'TXT'];
+        const validRecordTypes = ['A', 'AAAA', 'CNAME', 'NS', 'MX', 'TXT'];
 
         for (const [type, values] of Object.entries(records)) {
             if (!validRecordTypes.includes(type)) {
@@ -146,8 +146,9 @@ function validateJson(jsonData, filePath) {
                             errors.push(`:ERROR: Invalid AAAA record (IPv6 expected): ${value}`);
                         }
                         break;
-                    // CNAME and MX check
+                    // CNAME, NS, and MX check
                     case 'CNAME':
+                    case 'NS':
                     case 'MX':
                         if (!isValidDomain(value)) {
                             errors.push(`:ERROR: Invalid ${type} record: ${value}. Must be a valid domain. Remove 'http://' or 'https://', do not trail with '/'`);
