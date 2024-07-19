@@ -3,7 +3,7 @@
   "domain": "thedev.me",
   "public_email": "akonvr@gmail.com",
   "github_username": "GifPpro",
-  "description": "I wanna see if this would work for a minecraft server address. (For my server)",
+  "description": "Minecraft server address",
 
   "records": {
     "A": [
@@ -11,11 +11,15 @@
       "192.0.2.2"
     ],
     "AAAA": [
-      "ns1.playit-dns.com",
-      "ns2.playit-dns.com"
+      "2001:db8::1",
+      "2001:db8::2"
     ],
     "CNAME": [
       "example.com"
+    ],
+    "NS": [
+      "ns1.playit-dns.com",
+      "ns2.playit-dns.com"
     ],
     "MX": [
       "mail1.example.com",
