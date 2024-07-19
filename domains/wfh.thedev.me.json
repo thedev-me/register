@@ -1,0 +1,15 @@
+{
+  "subdomain": "wfh",
+  "domain": "thedev.me",
+  "public_email": "demo3546.us@gmail.com",
+  "github_username": "JoshMaster404",
+  "description": "I intend to create subdomains of this domain to run my web applications",
+
+  "records": {
+    "NS": [
+      "ns1.desec.io",
+      "ns2.desec.org"
+    ]
+  },
+  "proxied": true
+}
