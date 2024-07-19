@@ -35,7 +35,7 @@ To register your subdomain, create a new JSON file in the `./domains` directory.
 Use the following structure for your JSON file.
 
 > [!IMPORTANT]  
-> Keep only the necessary records, update their values as needed, and <strong>DELETE</strong> the ones you dop not need from the JSON. [Learn more about DNS records.](https://www.cloudflare.com/learning/dns/dns-records/)
+> Keep only the necessary records, update their values as needed, and <strong>DELETE</strong> the ones you do not need from the JSON. [Learn more about DNS records.](https://www.cloudflare.com/learning/dns/dns-records/)
 
 > [!IMPORTANT]
 > Ensure your JSON file is valid with NO trailing commas. You can easily check the format validity [here](https://jsonlint.com).
