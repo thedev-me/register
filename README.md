@@ -27,8 +27,6 @@
 
 - We support **A, AAAA, CNAME, NS, MX, and TXT** record types.
 
-- **We do NOT support wildcards or sub-subdomains.** <sub>(yet).</sub>
-
 
 ## JSON Formatting
 
