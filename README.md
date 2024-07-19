@@ -35,11 +35,12 @@ To register your subdomain, create a new JSON file in the `./domains` directory.
 Use the following structure for your JSON file.
 
 > [!IMPORTANT]  
-> Keep only the necessary records, update their values as needed, and delete the others. Typically, this means an IP address as an A record or a hostname as a CNAME record. NS records specify the nameservers that store DNS records. MX and TXT records handle email routing and ensure email authenticity and domain ownership. [Learn more about DNS records.](https://www.cloudflare.com/learning/dns/dns-records/)
+> Keep only the necessary records, update their values as needed, and <strong>DELETE</strong> the ones you dop not need from the JSON. [Learn more about DNS records.](https://www.cloudflare.com/learning/dns/dns-records/)
 
 > [!IMPORTANT]
 > Ensure your JSON file is valid with NO trailing commas. You can easily check the format validity [here](https://jsonlint.com).
 
+Template:
 ```json
 {
   "subdomain": "yoursubdomain",
@@ -84,7 +85,7 @@ Use the following structure for your JSON file.
 - `public_email`: Your public contact email
 - `github_username`: Your GitHub username
 - `description`: A brief description of your subdomain's purpose
-- `records`: DNS records for your subdomain. Only keep the ones you need. [Learn more.](https://www.cloudflare.com/learning/dns/dns-records/)
+- `records`: DNS records for your subdomain. Only keep the ones you need. [Learn more](https://www.cloudflare.com/learning/dns/dns-records/).
 - `proxied`: Set to `true` if you want to use Cloudflare's proxy, `false` otherwise.
 
 
