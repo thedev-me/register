@@ -24,7 +24,7 @@ jobs:
 
       - name: Install DNSControl
         run: |
-          curl -sSL https://github.com/StackExchange/dnscontrol/releases/download/v4.12.4/dnscontrol_4.12.4_linux_amd64.tar.gz -o dnscontrol.tar.gz
+          curl -sSL https://github.com/StackExchange/dnscontrol/releases/download/v4.12.5/dnscontrol_4.12.5_linux_amd64.tar.gz -o dnscontrol.tar.gz
           tar -xzf dnscontrol.tar.gz
           sudo mv dnscontrol /usr/local/bin/
 
