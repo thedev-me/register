@@ -6,27 +6,9 @@
   "description": "Minecraft server address",
 
   "records": {
-    "A": [
-      "192.0.2.1",
-      "192.0.2.2"
-    ],
-    "AAAA": [
-      "2001:db8::1",
-      "2001:db8::2"
-    ],
-    "CNAME": [
-      "example.com"
-    ],
     "NS": [
       "ns1.playit-dns.com",
       "ns2.playit-dns.com"
-    ],
-    "MX": [
-      "mail1.example.com",
-      "mail2.example.com"
-    ],
-    "TXT": [
-      "v=spf1 include:_spf.example.com ~all"
     ]
   },
   "proxied": true
