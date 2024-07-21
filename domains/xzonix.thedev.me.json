@@ -1,0 +1,27 @@
+{
+  "subdomain": "xzonix",
+  "domain": "thedev.me",
+  "public_email": "imahalojigi@gmail.com",
+  "github_username": "xzonix",
+  "description": "A bio of myself, including some projects.",
+
+  "records": {
+    "A": [
+      "185.199.108.153",
+      "185.199.110.153",
+      "185.199.111.153",
+      "185.199.109.153"
+    ],
+    "CNAME": [
+      "xzonix.sirv.com"
+    ],
+    "MX": [
+      "mx1.improvmx.com",
+      "mx2.improvmx.com"
+    ],
+    "TXT": [
+      "v=spf1 include:_spf.example.com ~all"
+    ]
+  },
+  "proxied": true
+}
