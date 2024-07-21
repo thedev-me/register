@@ -110,4 +110,4 @@ If you're interested in registering subdomains similar to `*.thedev.me`, conside
 - [Open Domains](https://open-domains.net)
 - [is-a.dev](https://www.is-a.dev)
 - [thedev.id](https://thedev.id)
-- [js.org](https://github.com/js-org/js.org)
+- [js.org](https://js.org)
