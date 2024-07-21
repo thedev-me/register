@@ -1,0 +1,15 @@
+{
+  "subdomain": "onelife",
+  "domain": "thedev.me",
+  "public_email": "akonvr@gmail.com",
+  "github_username": "GifPpro",
+  "description": "Minecraft server address",
+
+  "records": {
+    "NS": [
+      "ns1.playit-dns.com",
+      "ns2.playit-dns.com"
+    ]
+  },
+  "proxied": true
+}
