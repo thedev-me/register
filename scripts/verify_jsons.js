@@ -93,10 +93,16 @@ function validateJson(jsonData, filePath) {
         errors.push(':ERROR: Domain is invalid.');
     }
 
-    // Validate public email
+    // Validate public email or contact info
     const publicEmail = jsonData.public_email || '';
-    if (!isValidEmail(publicEmail)) {
-        errors.push(':ERROR: Invalid email structure.');
+    const contactInfo = jsonData.email_or_discord || '';
+    if (publicEmail) {
+        if (!isValidEmail(publicEmail)) {
+            errors.push(':ERROR: Invalid email in the JSON.');
+        }
+    }
+    else if (!contactInfo) {
+        errors.push(':ERROR: Please provide your contact info in the JSON.');
     }
 
     // Validate GitHub user

@@ -45,7 +45,7 @@ Template:
 {
   "subdomain": "yoursubdomain",
   "domain": "thedev.me",
-  "public_email": "user@example.com",
+  "email_or_discord": "user@example.com or user",
   "github_username": "user",
   "description": "A brief description of the purpose of the subdomain",
 
@@ -82,7 +82,7 @@ Template:
 
 - `subdomain`: Your desired subdomain (e.g., "myproject" for myproject.thedev.me)
 - `domain`: Always "thedev.me"
-- `public_email`: Your public contact email
+- `email_or_discord`: Your email or Discord username to protect your email from web scraping
 - `github_username`: Your GitHub username
 - `description`: A brief description of your subdomain's purpose
 - `records`: DNS records for your subdomain. Only keep the ones you need. [Learn more](https://www.cloudflare.com/learning/dns/dns-records/).
