@@ -50,28 +50,13 @@ Template:
   "description": "A brief description of the purpose of the subdomain",
 
   "records": {
-    "A": [
-      "192.0.2.1",
-      "192.0.2.2"
-    ],
-    "AAAA": [
-      "2001:db8::1",
-      "2001:db8::2"
-    ],
-    "CNAME": [
-      "example.com"
-    ],
-    "NS": [
-      "ns1.example.com",
-      "ns2.example.com"
-    ],
-    "MX": [
-      "mail1.example.com",
-      "mail2.example.com"
-    ],
-    "TXT": [
-      "v=spf1 include:_spf.example.com ~all"
-    ]
+    "A":     ["1.0.0.1", "1.0.0.2"],
+    "AAAA":  ["2000:db8::1", "2000:db8::2"],
+    "CNAME": ["example.com"],
+    "NS":    ["ns1.example.com", "ns2.example.com"],
+    "MX":    ["mail1.example.com","mail2.example.com"],
+    "TXT":   ["v=spf1 include:_spf.example.com ~all"]
+
   },
   "proxied": true
 }
