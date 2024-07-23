@@ -56,8 +56,8 @@ Template:
     "NS":    ["ns1.example.com", "ns2.example.com"],
     "MX":    ["mail1.example.com","mail2.example.com"],
     "TXT":   ["v=spf1 include:_spf.example.com ~all"]
-
   },
+
   "proxied": true
 }
 ```
