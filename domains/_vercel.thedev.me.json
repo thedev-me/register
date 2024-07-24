@@ -1,0 +1,15 @@
+{
+  "subdomain": "_vercel",
+  "domain": "thedev.me",
+  "public_email": "demo3546.us@gmail.com",
+  "github_username": "willi-felix",
+  "description": "Create it to use subdomain of thedev.me in Vercel to deploy app",
+
+  "records": {
+     
+    "CNAME": [
+   "vc-domain-verify=tdtv10.wfh.thedev.me,"
+    ]
+  },
+  "proxied": true
+}
