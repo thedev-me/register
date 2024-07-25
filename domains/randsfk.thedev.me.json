@@ -1,0 +1,14 @@
+{
+  "subdomain": "randsfk",
+  "domain": "thedev.me",
+  "public_email": "thefranco701@gmail.com@gmail.com",
+  "github_username": "demonlords27",
+  "description": "My portofolio",
+
+  "records": {
+    "A": [
+      "https://attractive-sileas-randsfk-7629e012.koyeb.app/"
+    ]
+  },
+  "proxied": true
+}
