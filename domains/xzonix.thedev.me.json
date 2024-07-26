@@ -6,9 +6,11 @@
   "description": "A description about me, and some projects. I also need an email.",
 
   "records": {
-    "CNAME": [
-      "xzonix.pages.dev"
-    ]
+    "A":     ["217.197.91.145"],
+    "NS":    ["ns1.hostry.com", "ns2.hostry.com", "ns3.hostry.com", "ns4.hostry.com"],
+    "MX":    ["mx1.improvmx.com","mx2.improvmx.com"],
+    "TXT":   ["v=spf1 include:_spf.improvmx.com ~all"]
   },
+
   "proxied": true
 }
