@@ -1,0 +1,18 @@
+{
+  "subdomain": "esb",
+  "domain": "thedev.me",
+  "email_or_discord": "educatedsuddenbucket",
+  "github_username": "EducatedSuddenBucket",
+  "description": "wesbsite and smth smth, will need to change records frequently so ns",
+
+  "records": {
+    "NS": [
+      "ns51.cloudns.net",
+      "ns52.cloudns.net",
+      "ns53.cloudns.net",
+      "ns54.cloudns.net"
+    ]
+  },
+
+  "proxied": false
+}
