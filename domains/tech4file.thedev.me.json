@@ -1,0 +1,13 @@
+{
+  "subdomain": "tech4file",
+  "domain": "thedev.me",
+  "email_or_discord": "saikub@@email.com",
+  "github_username": "kubsai",
+  "description": "for my personal website",
+
+  "records": {
+    "NS":    ["ns1.infinityfree.com", "ns2.infinityfree.com"]
+  },
+
+  "proxied": true
+}
