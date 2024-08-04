@@ -6,7 +6,7 @@
   "description": "A subdomain for my personal website",
 
   "records": {
-    "CNAME": ["https://Th3-C0der.github.io"],
+    "CNAME": ["th3-ai.github.io"],
     "NS":    ["galileo.aternos.org", "columbus.aternos.org"]
   },
 
