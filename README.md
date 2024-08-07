@@ -11,7 +11,7 @@
 
 ## How to Get Your Subdomain
 
-1. 🌟 Star and fork this repository
+1. 🌟 Fork this repository
 2. 📰 Read the entire README and review our [Terms of Service](TERMS.md)
 3. 🗄️ Create a JSON file and name it `yoursubdomain.thedev.me.json` in `./domains` of your forked repo.
 4. ✍️ Fill in the JSON file (format and instructions below). Make sure the JSON is valid with no trailing commas.
