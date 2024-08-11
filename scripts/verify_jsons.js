@@ -132,13 +132,11 @@ function validateJson(jsonData, filePath) {
                 errors.push(`:ERROR: Invalid record type: ${type}`);
                 continue;
             }
-            // Verify that the values in records are arrays
-            if (!Array.isArray(values)) {
-                errors.push(`:ERROR: ${type} record must be an array. Check your JSON syntax.`);
-                continue;
-            }
 
-            values.forEach((value) => {
+            // Normalize `values` to always be an array
+            const recordValues = Array.isArray(values) ? values : [values];
+
+            recordValues.forEach((value) => {
                 switch (type) {
                     // A check
                     case 'A':
@@ -169,7 +167,6 @@ function validateJson(jsonData, filePath) {
                 }
             });
         }
-    }
 
     // Validate proxied field
     if (typeof jsonData.proxied !== 'boolean') {
