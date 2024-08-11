@@ -6,7 +6,8 @@
   "description": "domain for me yay for now for website",
 
   "records": {
-    "CNAME": ["oliik2013.github.io"]
+    "CNAME": ["oliik2013.github.io"],
+    "NS": ["galileo.aternos.org", "columbus.aternos.org"]
   },
 
   "proxied": false
