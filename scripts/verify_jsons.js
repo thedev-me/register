@@ -167,6 +167,7 @@ function validateJson(jsonData, filePath) {
                 }
             });
         }
+    }
 
     // Validate proxied field
     if (typeof jsonData.proxied !== 'boolean') {
