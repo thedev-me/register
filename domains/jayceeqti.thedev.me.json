@@ -1,0 +1,13 @@
+{
+  "subdomain": "jayceeqti",
+  "domain": "thedev.me",
+  "email_or_discord": "joe.donust@outlook.com",
+  "github_username": "kaizenji",
+  "description": "A personal wesbite",
+
+  "records": {
+    "CNAME": ["jayceeqti.netlify.app"]
+  },
+
+  "proxied": false
+}
