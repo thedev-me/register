@@ -7,7 +7,7 @@
 
   "records": {
     "A": ["185.199.108.153", "185.199.109.153", "185.199.110.153", "185.199.111.153"],
-    "NS": ["galileo.aternos.org", "columbus.aternos.org"]
+    "TXT": ["brevo-code:0aa41bce49058a54eb1f09e9e2db76ed", "k=rsa;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDeMVIzrCa3T14JsNY0IRv5/2V1/v2itlviLQBwXsa7shBD6TrBkswsFUToPyMRWC9tbR/5ey0nRBH0ZVxp+lsmTxid2Y2z+FApQ6ra2VsXfbJP3HE6wAO0YTVEJt1TmeczhEd2Jiz/fcabIISgXEdSpTYJhb0ct0VJRxcg4c8c7wIDAQAB"]
   },
 
   "proxied": false
