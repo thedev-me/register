@@ -1,0 +1,18 @@
+{
+   "subdomain":"aquatica",
+   "domain":"thedev.me",
+   "email_or_discord":"untoldgam",
+   "github_username":"Untoldgam",
+   "description":"Used to host projects made for the Aquatica Minecraft Server Community, NS Records used to easily add new sub-sub domains for the website e.g. blog, store, etc.",
+   "records":{
+      "NS":[
+         "freedns1.registrar-servers.com",
+         "freedns2.registrar-servers.com",
+         "freedns3.registrar-servers.com",
+         "freedns4.registrar-servers.com",
+         "freedns5.registrar-servers.com"
+      ],
+      "TXT": ["hba82f6e6efd74727800a28d0e181c433"]
+   },
+   "proxied":false
+}
