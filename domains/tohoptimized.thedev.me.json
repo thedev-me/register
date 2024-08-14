@@ -6,7 +6,10 @@
   "description": "This is just a website for the mod TOH: Optimized. which has role info, and other stuff that is mod related.",
 
   "records": {
-    "CNAME": ["example.com"]
+    "NS": [
+      "ns1.infinityfree.com",
+      "ns2.infinityfree.com"
+    ]
 
   "proxied": true
 }
