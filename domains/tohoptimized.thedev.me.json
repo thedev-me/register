@@ -1,1 +1,12 @@
+{
+  "subdomain": "yoursubdomain",
+  "domain": "thedev.me",
+  "email_or_discord": "user@example.com or user",
+  "github_username": "user",
+  "description": "A brief description of the purpose of the subdomain",
 
+  "records": {
+    "CNAME": ["example.com"]
+
+  "proxied": true
+}
