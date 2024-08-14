@@ -1,9 +1,9 @@
 {
-  "subdomain": "yoursubdomain",
+  "subdomain": "tohoptimized",
   "domain": "thedev.me",
-  "email_or_discord": "user@example.com or user",
-  "github_username": "user",
-  "description": "A brief description of the purpose of the subdomain",
+  "email_or_discord": "andries46565@gmail.com",
+  "github_username": "andries659",
+  "description": "This is just a website for the mod TOH: Optimized. which has role info, and other stuff that is mod related.",
 
   "records": {
     "CNAME": ["example.com"]
