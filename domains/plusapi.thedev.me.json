@@ -1,0 +1,13 @@
+{
+  "subdomain": "plusapi",
+  "domain": "thedev.me",
+  "email_or_discord": "s1vann",
+  "github_username": "sivvv0",
+  "description": "discord PlusBot api for the user can use",
+
+  "records": {
+    "TXT":   ["vc-domain-verify=plusapi.thedev.me,b7d0a835e83535fda397"]
+  },
+
+  "proxied": true
+}
