@@ -6,7 +6,8 @@
   "description": "for some stuff + trying stuff",
 
   "records": {
-    "NS": ["freedns1.registrar-servers.com", "freedns2.registrar-servers.com", "freedns3.registrar-servers.com", "freedns4.registrar-servers.com", "freedns5.registrar-servers.com"]
+    "NS": ["freedns1.registrar-servers.com", "freedns2.registrar-servers.com", "freedns3.registrar-servers.com", "freedns4.registrar-servers.com", "freedns5.registrar-servers.com"],
+    "TXT": ["brevo-code:0aa41bce49058a54eb1f09e9e2db76ed"]
   },
 
   "proxied": false
