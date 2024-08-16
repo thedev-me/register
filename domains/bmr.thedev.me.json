@@ -1,0 +1,14 @@
+{
+  "subdomain": "https://rayxstudioz.github.io/terminal-portfolio",
+  "domain": "thedev.me",
+  "public_email": "syedrayangames@gmail.com",
+  "github_username": "RAYXSTUDIOZ",
+  "description": "for my personal terminal portfolio",
+
+  "records": {
+    "CNAME": [
+      "rayxstudioz.github.io"
+    ]
+  },
+  "proxied": true
+}
