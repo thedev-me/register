@@ -1,13 +1,12 @@
 {
   "subdomain": "oliik2013",
   "domain": "thedev.me",
-  "email_or_discord": "joe.donust@outlook.com",
+  "email_or_discord": "oliik2013@mail.oliik2013.thedev.me",
   "github_username": "oliik2013",
   "description": "for some stuff + trying stuff",
 
   "records": {
-    "NS": ["freedns1.registrar-servers.com", "freedns2.registrar-servers.com", "freedns3.registrar-servers.com", "freedns4.registrar-servers.com", "freedns5.registrar-servers.com"],
-    "TXT": ["brevo-code:0aa41bce49058a54eb1f09e9e2db76ed"]
+    "NS": ["freedns1.registrar-servers.com", "freedns2.registrar-servers.com", "freedns3.registrar-servers.com", "freedns4.registrar-servers.com", "freedns5.registrar-servers.com"]
   },
 
   "proxied": false
