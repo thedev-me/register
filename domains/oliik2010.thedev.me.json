@@ -3,7 +3,7 @@
   "domain": "thedev.me",
   "email_or_discord": "joe.donust@outlook.com",
   "github_username": "oliik2013",
-  "description": "for some stuff + trying stuff",
+  "description": "for some stuff + trying stuf 2.0f",
 
   "records": {
     "NS": ["freedns1.registrar-servers.com", "freedns2.registrar-servers.com", "freedns3.registrar-servers.com", "freedns4.registrar-servers.com", "freedns5.registrar-servers.com"]
