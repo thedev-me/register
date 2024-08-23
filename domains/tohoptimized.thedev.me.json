@@ -1,0 +1,12 @@
+{
+  "subdomain": "tohoptimized",
+  "domain": "thedev.me",
+  "public_email": "andries46565@gmail.com",
+  "github_username": "andries659",
+  "description": "This is just a website for the mod TOH: Optimized. which has role info, and other stuff that is mod related.",
+
+  "records": {
+    "NS":    ["ns1.infinityfree.com", "ns2.infinityfree.com"]
+
+  "proxied": true
+}
