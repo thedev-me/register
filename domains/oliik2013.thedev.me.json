@@ -6,8 +6,7 @@
   "description": "for some stuff + trying stuff",
 
   "records": {
-    "NS": ["freedns1.registrar-servers.com", "freedns2.registrar-servers.com", "freedns3.registrar-servers.com", "freedns4.registrar-servers.com", "freedns5.registrar-servers.com"], 
-    "TXT": ["v=spf1 include:_spf.mailersend.net ~all"]
+    "NS": ["freedns1.registrar-servers.com", "freedns2.registrar-servers.com", "freedns3.registrar-servers.com", "freedns4.registrar-servers.com", "freedns5.registrar-servers.com"]
   },
 
   "proxied": false
