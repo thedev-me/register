@@ -1,0 +1,13 @@
+{
+    "subdomain": "duckopia",
+    "domain": "thedev.me",
+    "email_or_discord": "phantonducthang.xyz@gmail.com",
+    "github_username": "duckopia",
+    "description": "For Hobby and Learning Website",
+
+    "records": {
+        "NS": ["ns1.he.net", "ns2.he.net", "ns3.he.net", "ns4.he.net", "ns5.he.net"]
+    },
+
+    "proxied": false
+}
