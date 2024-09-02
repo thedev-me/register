@@ -1,0 +1,13 @@
+{
+  "subdomain": "redoc",
+  "domain": "thedev.me",
+  "email_or_discord": "electrobot999@gmail.com",
+  "github_username": "neptotech",
+  "description": "Personal homepage/blogpage",
+
+  "records": {
+    "TXT":   ["_vercel=vc-domain-verify=redoc.thedev.me,01733207fb32b3fb89ae"]
+  },
+
+  "proxied": false
+}
