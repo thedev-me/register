@@ -3,9 +3,10 @@
    "domain":"thedev.me",
    "email_or_discord":"untoldgam",
    "github_username":"Untoldgam",
-   "description":"Used to host projects made for the Temple Keepers Server Community, NS Records used to easily add new sub-sub domains for the website e.g. blog, store, etc (adding in a future PR).",
+   "description":"Used to host projects made for the Temple Keepers Server Community, NS Records used to easily add new sub-sub domains for the website e.g. blog, store, etc.",
    "records":{
-      "A": ["132.145.13.19"]
+     "NS": ["ns1.desec.io.",
+"ns2.desec.org."]
    },
    "proxied":true
 }
