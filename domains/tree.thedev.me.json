@@ -3,7 +3,7 @@
   "domain": "thedev.me",
   "email_or_discord": "moonlight10529@gmail.com",
   "github_username": "user",
-  "description": ""Used to host projects that I made",
+  "description": "Used to host projects that I made",
 
   "records": {
     "A":     ["185.199.108.153", "185.199.109.153", "185.199.110.153", "185.199.111.153"],
