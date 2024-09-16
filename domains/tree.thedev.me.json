@@ -6,7 +6,6 @@
   "description": "Used to host projects that I made",
 
   "records": {
-    "A":     ["185.199.108.153", "185.199.109.153", "185.199.110.153", "185.199.111.153"],
     "CNAME": ["202420505.github.io"]
   },
 
