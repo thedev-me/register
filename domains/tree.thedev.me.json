@@ -12,7 +12,8 @@
          "freedns3.registrar-servers.com",
          "freedns4.registrar-servers.com",
          "freedns5.registrar-servers.com"
-      ]
+      ],
+     "TXT": ["hdb629aa6ad9b4c82b6c74c1e873db6e4"]
   },
 
   "proxied": true
