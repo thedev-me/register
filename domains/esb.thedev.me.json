@@ -3,12 +3,22 @@
   "domain": "thedev.me",
   "email_or_discord": "educatedsuddenbucket",
   "github_username": "EducatedSuddenBucket",
-  "description": "website and smth smth, will need to change records frequently so ns",
+  "description": "website and will need to .anage subdomains under it so ns",
 
   "records": {
     "NS": [
-      "ns1.desec.io",
-      "ns2.desec.org"
+      "ns1.dynu.com",
+      "ns2.dynu.com",
+      "ns3.dynu.com",
+      "ns4.dynu.com",
+      "ns5.dynu.com",
+      "ns6.dynu.com",
+      "ns7.dynu.com",
+      "ns8.dynu.com",
+      "ns9.dynu.com",
+      "ns10.dynu.com",
+      "ns11.dynu.com",
+      "ns12.dynu.com"
     ]
   },
 
