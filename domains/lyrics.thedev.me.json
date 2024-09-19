@@ -1,0 +1,14 @@
+
+{
+  "subdomain": "lyrics",
+  "domain": "thedev.me",
+  "email_or_discord": "mac.litmus514@passinbox.com",
+  "github_username": "golyrics",
+  "description": "A unique lyrics database",
+
+  "records": {
+    "A":     ["198.91.81.11"]
+  },
+
+  "proxied": false
+}
