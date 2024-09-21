@@ -1,0 +1,13 @@
+{
+  "subdomain": "mithilesh",
+  "domain": "thedev.me",
+  "email_or_discord": "mitumithilesh2@gmail.com",
+  "github_username": "kingsmen732",
+  "description": "Personal homepage/blogpage",
+
+  "records": {
+    "TXT":   ["vc-domain-verify=mithilesh.thedev.me,4fb0e0f6a21a09267cef"]
+  },
+
+  "proxied": false
+}
