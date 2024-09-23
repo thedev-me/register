@@ -5,8 +5,7 @@
    "github_username":"Untoldgam",
    "description":"Used to host projects made for the Temple Keepers Server Community, NS Records used to easily add new sub-sub domains for the website e.g. blog, store, etc.",
    "records":{
-     "NS": ["ns1.desec.io",
-"ns2.desec.org"]
+     "NS": ["ns1.as207960.net","ns2.as207960.net","ns3.as207960.net","ns4.as207960.net"]
    },
    "proxied":true
 }
