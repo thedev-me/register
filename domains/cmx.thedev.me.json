@@ -1,0 +1,13 @@
+{
+  "subdomain": "cmx",
+  "domain": "thedev.me",
+  "email_or_discord": "admin@cmx.im",
+  "github_username": "cmx-im",
+  "description": "Alt domain for the CMX.im Mastodon/Fediverse Community",
+
+  "records": {
+    "CNAME": ["s1.cmx.edu.kg"]
+  },
+
+  "proxied": true
+}
