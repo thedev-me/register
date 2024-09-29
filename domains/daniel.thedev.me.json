@@ -1,0 +1,14 @@
+{
+  "subdomain": "daniel",
+  "domain": "thedev.me",
+  "public_email": "rozario@duck.com",
+  "github_username": "rozari0",
+  "description": "for my personal blog.",
+
+  "records": {
+    "CNAME": [
+      "rozari0.github.io"
+    ]
+  },
+  "proxied": false
+}
