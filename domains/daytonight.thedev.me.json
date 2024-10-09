@@ -1,0 +1,13 @@
+{
+    "subdomain": "daytonight",
+    "domain": "thedev.me",
+    "email_or_discord": "duyvuhoang288@gmail.com",
+    "github_username": "RHV5",
+    "description": "For Dev",
+  
+    "records": {
+      "NS":    ["ns1.hostry.com", "ns2.hostry.com", "ns3.hostry.com", "ns4.hostry.com"]
+    },
+  
+    "proxied": false
+  }
