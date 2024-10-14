@@ -1,13 +1,13 @@
 {
   "subdomain": "nischay",
   "domain": "thedev.me",
-  "email_or_discord": "nischaydilhor@gmail.com",
+  "public_email": "nischaydilhor@gmail.com",
   "github_username": "nischay42",
   "description": "for my personal portfolio",
 
  "records": {
     "CNAME": [
-      "nischay42.github.io/Portfolio/"
+      "nischay42.github.io"
     ]
   },
 
