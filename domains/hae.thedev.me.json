@@ -1,0 +1,11 @@
+{
+  "subdomain": "hae",
+  "domain": "thedev.me",
+  "public_email": "contact@hae.my.id",
+  "github_username": "haerulmuttaqin",
+  "description": "personal website",
+  "records": {
+    "CNAME": ["hae.my.id"]
+  },
+  "proxied": false
+}
