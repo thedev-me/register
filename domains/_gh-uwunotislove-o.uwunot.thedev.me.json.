@@ -11,7 +11,7 @@
     "CNAME": ["uwunot.thedev.me"],
     "NS":    [""],
     "MX":    [""],
-    "TXT":   ["v=spf1 include:_spf.ceae388342 ~all"]
+    "TXT":   ["0659e150f5"]
   },
 
   "proxied": false
