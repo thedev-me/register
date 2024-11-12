@@ -1,0 +1,13 @@
+{
+  "subdomain": "tio",
+  "domain": "thedev.me",
+  "email_or_discord": "hostingerbalance@gmail.com",
+  "github_username": "hostinger-bot",
+  "description": "Personal homepage/portofolio",
+
+  "records": {
+    "TXT":   ["_vercel=vc-domain-verify=tio.thedev.me,0337c0e49c989c3283eb"]
+  },
+
+  "proxied": false
+}
