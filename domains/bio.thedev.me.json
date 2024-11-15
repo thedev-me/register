@@ -1,0 +1,20 @@
+{
+  "subdomain": "bio",
+  "domain": "thedev.me",
+  "email_or_discord": "moonnowlive@gmail.com",
+  "github_username": "treeentertainment",
+  "description": "Used to host projects that I made",
+
+  "records": {
+      "NS":[
+         "freedns1.registrar-servers.com",
+         "freedns2.registrar-servers.com",
+         "freedns3.registrar-servers.com",
+         "freedns4.registrar-servers.com",
+         "freedns5.registrar-servers.com"
+      ],
+     "TXT": ["hf7f9912824fc48268c59aa95967b14dc"]
+  },
+
+  "proxied": true
+}
