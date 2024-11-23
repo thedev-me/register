@@ -6,7 +6,7 @@
   "description": "Personal Portfolio Site",
 
   "records": {
-    "NS":    ["ns1.desec.io.", "ns2.desec.org."]
+    "NS":    ["ns1.desec.io", "ns2.desec.org"]
   },
 
   "proxied": false
