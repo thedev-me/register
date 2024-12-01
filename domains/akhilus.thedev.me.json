@@ -1,0 +1,11 @@
+{
+  "subdomain": "akhilus",
+  "domain": "thedev.me",
+  "email_or_discord": "devakhilus@gmail.com",
+  "github_username": "devakhilus",
+  "description": "My personal portfolio hosted on GitHub Pages",
+  "records": {
+    "CNAME": ["devakhilus.github.io"]
+  },
+  "proxied": true
+}
