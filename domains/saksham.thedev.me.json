@@ -1,0 +1,13 @@
+{
+  "subdomain": "saksham",
+  "domain": "thedev.me",
+  "email_or_discord": "OshekharO",
+  "github_username": "OshekharO",
+  "description": "Personal Portfolio Site",
+
+  "records": {
+    "NS":    ["ns1.desec.io", "ns2.desec.org"]
+  },
+
+  "proxied": false
+}
