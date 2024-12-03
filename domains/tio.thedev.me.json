@@ -6,7 +6,7 @@
   "description": "Personal homepage/portofolio",
 
   "records": {
-    "TXT":   ["_vercel=vc-domain-verify=tio.thedev.me,0337c0e49c989c3283eb"]
+    "TXT":   ["vc-domain-verify=tio.thedev.me,0337c0e49c989c3283eb"]
   },
 
   "proxied": false
