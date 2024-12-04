@@ -1,0 +1,14 @@
+{
+  "subdomain": "oaoyuy",
+  "domain": "thedev.me",
+  "email_or_discord": "liuyuda3010@outlook.com",
+  "github_username": "liuyuda301020",
+  "description": "mytestsubdomain",
+
+  "records": {
+    "A":     ["159.75.125.245"]
+    "TXT":   ["v=spf1 include:_spf.improvmx.com ~all"]
+  },
+
+  "proxied": true
+}
