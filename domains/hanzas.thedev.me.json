@@ -1,0 +1,18 @@
+{
+  "subdomain": "hanzas",
+  "domain": "thedev.me",
+  "email_or_discord": "josephandrew1@logicstreak.com",
+  "github_username": "hanzas09",
+  "description": "hanzas website",
+
+  "records": {
+    "A":     ["185.199.108.153", "185.199.109.153", "185.199.110.153", "185.199.111.153"],
+    "AAAA":  ["2606:50c0:8000::153", "2606:50c0:8001::153", "2606:50c0:8002::153", "2606:50c0:8003::153"],
+    "CNAME": ["hanzas09.github.io"],
+    "NS":    ["ns1.example.com", "ns2.example.com"],
+    "MX":    ["mx1.improvmx.com.","mx2.improvmx.com."],
+    "TXT":   ["v=spf1 include:spf.improvmx.com ~all"]
+  },
+
+  "proxied": true
+}
