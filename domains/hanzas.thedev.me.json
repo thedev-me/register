@@ -20,10 +20,7 @@
         "CNAME": [
             "hanzas09.github.io"
         ],
-        "NS": [
-            "ns1.example.com",
-            "ns2.example.com"
-        ],
+        "NS": [],
         "MX": [
             "mx1.improvmx.com",
             "mx2.improvmx.com"
