@@ -5,17 +5,7 @@
     "github_username": "hanzas09",
     "description": "website of hanzas web development service",
     "records": {
-        "A": [],
-        "AAAA": [],
-        "CNAME": ["hanzas09.github.io"],
-        "NS": [],
-        "MX": [
-            "mx1.improvmx.com",
-            "mx2.improvmx.com"
-        ],
-        "TXT": [
-            "v=spf1 include:spf.improvmx.com ~all",
-        ]
+        "NS": ["ns1.desec.io", "ns2.desec.org"],
     },
     "proxied": true
 }
