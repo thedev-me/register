@@ -5,21 +5,9 @@
     "github_username": "hanzas09",
     "description": "website of hanzas web development service",
     "records": {
-        "A": [
-            "185.199.108.153",
-            "185.199.109.153",
-            "185.199.110.153",
-            "185.199.111.153"
-        ],
-        "AAAA": [
-            "2606:50c0:8000::153",
-            "2606:50c0:8001::153",
-            "2606:50c0:8002::153",
-            "2606:50c0:8003::153"
-        ],
-        "CNAME": [
-            "hanzas09.github.io"
-        ],
+        "A": [],
+        "AAAA": [],
+        "CNAME": ["hanzas09.github.io"],
         "NS": [],
         "MX": [
             "mx1.improvmx.com",
@@ -27,7 +15,6 @@
         ],
         "TXT": [
             "v=spf1 include:spf.improvmx.com ~all",
-            "1ef8cad9562eb2ad433243ea5cf03b"
         ]
     },
     "proxied": true
