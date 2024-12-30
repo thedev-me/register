@@ -1,0 +1,13 @@
+{
+    "subdomain": "hpcodes",
+    "domain": "thedev.me",
+    "email_or_discord": "haiderbuilds",
+    "github_username": "haider-patanwala",
+    "description": "Hosting side projects for development puproses",
+  
+    "records": {
+      "A":     ["13.203.161.12"]
+    },
+  
+    "proxied": false
+  }
