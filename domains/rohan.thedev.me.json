@@ -1,0 +1,13 @@
+{
+  "subdomain": "rohan",
+  "domain": "thedev.me",
+  "email_or_discord": "roh1117@outlook.com",
+  "github_username": "roh1117",
+  "description": "A guy who has just started webdev and wants a domain to play with",
+
+  "records": {
+    "NS":    ["ns1.desec.io", "ns2.desec.org"]
+  },
+
+  "proxied": false
+}
