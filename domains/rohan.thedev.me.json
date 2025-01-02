@@ -6,7 +6,7 @@
   "description": "A guy who has just started webdev and wants a domain to play with",
 
   "records": {
-    "NS":    ["ns1.desec.io", "ns2.desec.org"],
+    "NS":    ["ns1.desec.io", "ns2.desec.org"]
   },
 
   "proxied": false
