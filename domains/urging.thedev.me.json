@@ -1,0 +1,11 @@
+{
+  "subdomain": "urging",
+  "domain": "thedev.me",
+  "email_or_discord": "diogo.lopes.silva.ch@gmail.com",
+  "github_username": "UrgingOfc",
+  "description": "Subdomain used to my personal website and to my personal projects.",
+
+  "records": {
+    "NS":    ["ns1.desec.io", "ns2.desec.org"]
+  }
+}
