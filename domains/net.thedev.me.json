@@ -1,0 +1,13 @@
+{
+  "subdomain": "net",
+  "domain": "thedev.me",
+  "email_or_discord": "florian@egelhfoer.net",
+  "github_username": "mcsurfi",
+  "description": "My Personal Website",
+
+  "records": {
+    "NS":    ["ns1.he.net", "ns2.he.net", "ns3.he.net", "ns4.he.net", "ns5.he.net"]
+  },
+
+  "proxied": false
+}
