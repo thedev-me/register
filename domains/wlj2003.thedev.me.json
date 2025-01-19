@@ -1,0 +1,13 @@
+{
+    "subdomain": "wlj2003",
+    "domain": "thedev.me",
+    "email_or_discord": "aaa@wlj.ddns-ip.net",
+    "github_username": "a-wlj-ddns-ip-net",
+    "description": "For Hobby and Learning Website Thanks",
+
+    "records": {
+        "NS": ["ns1.he.net", "ns2.he.net", "ns3.he.net", "ns4.he.net", "ns5.he.net"]
+    },
+
+    "proxied": false
+}
