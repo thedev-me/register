@@ -7,6 +7,7 @@
 
   "records": {
     "TXT":   ["zoho-verification=zb89927295.zmverify.zoho.com"]
+    "MX":  ["mx.zoho.com","mx2.zoho.com","mx3.zoho.com"]
   },
 
   "proxied": true
