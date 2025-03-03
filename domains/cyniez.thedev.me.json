@@ -4,11 +4,9 @@
   "email_or_discord": "syed.sakibul.islam2008@gmail.com",
   "github_username": "cyniez",
   "description": "Setting Up a Domain for Zoho Mail",
-
   "records": {
-    "TXT":   ["zoho-verification=zb89927295.zmverify.zoho.com"],
-    "MX":  ["mx.zoho.com","mx2.zoho.com","mx3.zoho.com"]
+    "TXT": ["v=spf1 include:zohomail.com ~all", "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCC6dgC7gFkcRWi0nl0+1dUesSyhgZkVruWhjiWL1oy+ewox8lkoUdVUIkWjmxpz+L37ot3SpTZdznB4RmIHKLIdD8O2MB2O1YzNg+n3vXRZA/tqD31BCXyrwjvzWgjsJk1jRtIPYYKgCyPJF/3mai0I+zQ09j2Igpv5ed4kM6ogwIDAQAB"],
+    "MX": ["mx.zoho.com", "mx2.zoho.com", "mx3.zoho.com"]
   },
-
   "proxied": true
 }
