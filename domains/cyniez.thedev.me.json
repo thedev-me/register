@@ -6,7 +6,7 @@
   "description": "Setting Up a Domain for Zoho Mail",
 
   "records": {
-    "TXT":   ["zoho-verification=zb89927295.zmverify.zoho.com"]
+    "TXT":   ["zoho-verification=zb89927295.zmverify.zoho.com"],
     "MX":  ["mx.zoho.com","mx2.zoho.com","mx3.zoho.com"]
   },
 
