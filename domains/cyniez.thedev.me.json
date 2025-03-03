@@ -3,7 +3,7 @@
   "domain": "thedev.me",
   "email_or_discord": "syed.sakibul.islam2008@gmail.com",
   "github_username": "cyniez",
-  "description": "For zoho mail",
+  "description": "Setting Up a Domain for Zoho Mail",
 
   "records": {
     "TXT":   ["zoho-verification=zb89927295.zmverify.zoho.com"]
