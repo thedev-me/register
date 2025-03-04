@@ -1,0 +1,13 @@
+{
+    "subdomain": "yixboost",
+    "domain": "thedev.me",
+    "email_or_discord": "jonasvanleeuwen19",
+    "github_username": "Yixboost",
+    "description": "Yixboost Games Alt Domain",
+  
+    "records": {
+      "A":     ["82.168.19.207"]
+    },
+  
+    "proxied": true
+  }
