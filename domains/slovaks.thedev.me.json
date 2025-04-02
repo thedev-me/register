@@ -1,0 +1,11 @@
+{
+  "subdomain": "slovaks",
+  "domain": "thedev.me",
+  "email_or_discord": "siresirol927@gmail.com",
+  "github_username": "slovakians",
+  "description": "My introduction page portfolio hosted on GitHub Pages",
+  "records": {
+    "CNAME": ["slovakians.github.io"]
+  },
+  "proxied": true
+}
