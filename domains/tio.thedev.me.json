@@ -6,8 +6,9 @@
   "description": "Personal homepage/portofolio",
 
   "records": {
-    "TXT":   ["vc-domain-verify=tio.thedev.me,0337c0e49c989c3283eb"]
+    "CNAME": [
+      "myporto15.netlify.app"
+    ]
   },
-
   "proxied": false
 }
