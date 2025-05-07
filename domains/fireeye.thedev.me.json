@@ -3,9 +3,17 @@
   "domain": "thedev.me",
   "email_or_discord": "FireEye.dev@gmail.com",
   "github_username": "Ramver66",
-  "description": "Guide of activities and/or solved problems.",
+  "description": "Zone to share solutions, build community and grow",
   "records": {
-    "CNAME": ["fireeye.github.io"]
+    "CNAME": ["fireeye.github.io"],
+    "usuarios": [],
+    "noticias": [],
+    "tutoriales": [],
+    "chat_mensajes": [],
+    "comentarios_reacciones": [],
+    "notificaciones": [],
+    "archivos_imagenes": [],
+    "roles_permisos": []
   },
   "proxied": false
 }
