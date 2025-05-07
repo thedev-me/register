@@ -1,0 +1,11 @@
+{
+  "subdomain": "fireeye",
+  "domain": "thedev.me",
+  "email_or_discord": "FireEye.dev@gmail.com",
+  "github_username": "Ramver66",
+  "description": "Guide of activities and/or solved problems.",
+  "records": {
+    "CNAME": ["fireeye.github.io"]
+  },
+  "proxied": false
+}
