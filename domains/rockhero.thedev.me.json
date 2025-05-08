@@ -1,0 +1,11 @@
+{
+  "subdomain": "rockhero",
+  "domain": "thedev.me",
+  "email_or_discord": "techartistdilip@gmail.com",
+  "github_username": "rockhero1234",
+  "description": "rockhero site",
+  "records": {
+    "A": ["3.110.92.5"]
+  },
+  "proxied": false
+}
