@@ -1,0 +1,12 @@
+{
+  "subdomain": "aimane",
+  "domain": "thedev.me",
+  "email_or_discord": "ayo12ammar24@gmail.com",
+  "github_username": "AymanAegon",
+  "description": "My personal portfolio hosted on vercel",
+  "records": {
+    "CNAME": ["ayman-portfolio-fawn.vercel.app"],
+    "TXT":   ["vc-domain-verify=aimane.thedev.me,391eff3ba5cc2a11a65d"]
+  },
+  "proxied": true
+}
