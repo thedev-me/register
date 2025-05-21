@@ -1,0 +1,14 @@
+{
+  "subdomain": "misr",
+  "domain": "thedev.me",
+  "email": "saif@saifabdelrazke.com",
+  "github_username": "main-misr",
+  "description": "Using for company uses",
+
+  "records": {
+    "A":     ["37.27.51.34"],
+    "TXT":   ["domain-verification=saif"]
+  },
+
+  "proxied": false
+}

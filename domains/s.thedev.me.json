@@ -1,0 +1,15 @@
+{
+  "subdomain": "s",
+  "domain": "thedev.me",
+  "email": "saif@saifabdelrazek.com",
+  "github_username": "saifabdelrazek011",
+  "description": "Using for some services",
+
+  "records": {
+    "A":     ["37.27.51.34"],
+    "TXT":   ["domain-verification=saif"]
+  },
+  
+  "proxied": false
+}
+
