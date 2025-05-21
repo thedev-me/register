@@ -10,5 +10,5 @@
     "TXT":   ["domain-verification=saif"]
   },
 
-  "proxied": true
+  "proxied": false
 }
