@@ -5,7 +5,7 @@
   "github_username": "ColinLeDev",
   "description": "Discord verification",
   "records": {
-    "TXT": "dh=4b74abf9b4b95c47534b0e555f35c3b8b9c6c345"
+    "TXT": ["dh=4b74abf9b4b95c47534b0e555f35c3b8b9c6c345"]
   },
   "proxied": false
 }
