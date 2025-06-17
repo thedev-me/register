@@ -1,0 +1,21 @@
+{
+  "subdomain": "benxx",
+  "domain": "thedev.me",
+  "email_or_discord":"ziyosenstore@gmail.com",
+  "github_username": "ziyosen",
+  "description": "A brief description of the purpose of the subdomain",
+
+  "records": {
+    "A":     ["1.0.0.1", "1.0.0.2"],
+    "AAAA":  ["2000:db8::1", "2000:db8::2"],
+    "CNAME": ["xproject-vpn.pages.dev"],
+    "NS":    ["fred.ns.cloudflare.com", "magali.ns.cloudflare.com"],
+    "MX":    ["mail1.example.com","mail2.example.com"],
+    "TXT":   ["v=spf1 include:_spf.example.com ~all"]
+  },
+
+  "proxied": true
+}
+
+
+
