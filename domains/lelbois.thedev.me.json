@@ -1,0 +1,11 @@
+{
+  "subdomain": "lelbois",
+  "domain": "thedev.me",
+  "email_or_discord": "koshlandjg105@gmail.com",
+  "github_username": "linuxfandudeguy",
+  "description": "My personal portfolio hosted on Nekoweb.org.",
+  "records": {
+    "CNAME": ["lelbois.nekoweb.org"]
+  },
+  "proxied": true
+}
