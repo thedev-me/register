@@ -1,0 +1,11 @@
+{
+  "subdomain": "KeepingInTouch",
+  "domain": "thedev.me",
+  "email_or_discord": "shauliperets@gmail.com",
+  "github_username": "shauliperets",
+  "description": "KeepingInTouch cms software",
+  "records": {
+    "A": ["23.19.249.89"]
+  },
+  "proxied": true
+}
