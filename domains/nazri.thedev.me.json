@@ -6,8 +6,8 @@
   "description": "Nazri is a simple public-facing portfolio and developer playground hosted on ByetHost, designed to showcase ongoing projects and learning progress.",
 
   "records": {
-    "NS":    ["ns1.byet.org", "ns2.byet.org", "ns3.byet.org", "ns4.byet.org", "ns5.byet.org"],
-  }
+    "NS":    ["ns1.byet.org", "ns2.byet.org", "ns3.byet.org", "ns4.byet.org", "ns5.byet.org"]
+  },
 
   "proxied": false
 }
