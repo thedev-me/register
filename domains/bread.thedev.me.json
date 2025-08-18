@@ -1,0 +1,16 @@
+{
+   "subdomain":"bread",
+   "domain":"thedev.me",
+   "email_or_discord":"bre4d777",
+   "github_username":"bre4d777",
+   "description":"will use this for my personal portfolio and store, NS Records used to easily add new sub-sub domains for the website e.g. blog, Portfolio,store, etc.",
+   "records":{
+      "NS":[
+         "NS1.AFRAID.ORG",
+         "NS2.AFRAID.ORG",
+         "NS3.AFRAID.ORG",
+         "NS4.AFRAID.ORG"
+      ]
+   },
+   "proxied": false
+}
