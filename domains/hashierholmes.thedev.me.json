@@ -1,0 +1,11 @@
+{
+  "subdomain": "hashierholmes",
+  "domain": "thedev.me",
+  "email_or_discord": "hashierholmes@gmail.com",
+  "github_username": "hashierholmes",
+  "description": "Points to my Vercel deployment",
+  "records": {
+    "CNAME": ["hashierholmes.vercel.app"]
+  },
+  "proxied": false
+}
