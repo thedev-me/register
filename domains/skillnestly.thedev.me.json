@@ -1,0 +1,11 @@
+{
+  "subdomain": "skillnestly",
+  "domain": "thedev.me",
+  "email_or_discord": "mpfiveonetwo@gmail.com",
+  "github_username": "utbdofficial",
+  "description": "An online learning platform for various skills.",
+  "records": {
+    "A": ["128.204.218.48"]
+  },
+  "proxied": true
+}
