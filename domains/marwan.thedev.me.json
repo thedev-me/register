@@ -1,0 +1,12 @@
+{
+  "subdomain": "marwan",
+  "domain": "thedev.me",
+  "email_or_discord": "itsmarwan.",
+  "github_username": "itsmarwan",
+  "description": "protfolio",
+
+  "records": {
+    "CNAME": ["itsmarwan.github.io"],
+    "TXT":   ["681a0acc6c6fda06bb275826886a9a"]
+  },
+}
