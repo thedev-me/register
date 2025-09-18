@@ -1,0 +1,18 @@
+{
+  "subdomain": "auratv",
+  "domain": "thedev.me",
+  "email_or_discord": "user@example.com",
+  "github_username": "GitHubUser",
+  "description": "Node.js server tunnel for AuraTV project",
+
+  "records": {
+    "CNAME": ["https://achievements-rounds-silent-allows.trycloudflare.com"],
+    "A": [],
+    "AAAA": [],
+    "NS": [],
+    "MX": [],
+    "TXT": []
+  },
+
+  "proxied": true
+}
