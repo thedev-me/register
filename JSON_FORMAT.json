@@ -1,12 +1,33 @@
 {
-  "subdomain": "ngoctrungit",
+  "subdomain": "yoursubdomain",
   "domain": "thedev.me",
-  "email_or_discord": "dangngoctrung1806@gmail.com",
-  "github_username": "dangngoctrung1806",
-  "description": "My personal development server hosted on AWS EC2.",
+  "email_or_discord": "user@example.com or user",
+  "github_username": "user",
+  "description": "A brief description of the purpose of the subdomain",
 
   "records": {
-    "A": ["107.20.201.206"]
+    "A": [
+      "192.0.2.1",
+      "192.0.2.2"
+    ],
+    "AAAA": [
+      "2001:db8::1",
+      "2001:db8::2"
+    ],
+    "CNAME": [
+      "example.com"
+    ],
+    "NS": [
+      "ns1.example.com",
+      "ns2.example.com"
+    ],
+    "MX": [
+      "mail1.example.com",
+      "mail2.example.com"
+    ],
+    "TXT": [
+      "v=spf1 include:_spf.example.com ~all"
+    ]
   },
 
   "proxied": true
