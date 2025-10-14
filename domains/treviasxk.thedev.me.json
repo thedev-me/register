@@ -1,0 +1,13 @@
+{
+  "subdomain": "treviasxk",
+  "domain": "thedev.me",
+  "email_or_discord": "treviasxkr",
+  "github_username": "treviasxk",
+  "description": "It is my personal subdomain.",
+
+  "records": {
+    "A":     ["164.152.44.169"]
+  },
+
+  "proxied": true
+}
