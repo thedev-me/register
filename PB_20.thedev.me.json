@@ -1,0 +1,11 @@
+{
+  "subdomain": "pb20",
+  "domain": "thedev.me",
+  "github_username": "kabirch01",
+  "email_or_discord": "kabirch2008@gmail.com",
+  "description": "server subdomain",
+  "records": {
+    "A": ["0.0.0.0"]
+  },
+  "proxied": false
+}
