@@ -1,0 +1,13 @@
+{
+    "subdomain": "earlfranciss",
+    "domain": "thedev.me",
+    "email_or_discord": "earlfrancisong@gmail.com",
+    "github_username": "earlfranciss",
+    "description": "For my personal website",
+    "records": {
+        "CNAME": [
+            "cname.vercel-dns.com"
+        ]
+    },
+    "proxied": false
+}
