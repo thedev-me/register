@@ -1,0 +1,14 @@
+{
+  "subdomain": "vrypt",
+  "domain": "thedev.me",
+  "email_or_discord": "vryptsan@gmail.com",
+  "github_username": "gwkrip",
+  "description": "A brief description of the purpose of the subdomain",
+
+  "records": {
+    "CNAME": ["026bb3dbdae013c8.vercel-dns-017.com"],
+    "TXT":   ["vc-domain-verify=vrypt.thedev.me,ef91e685783d8d0825c7"]
+  },
+
+  "proxied": true
+}
