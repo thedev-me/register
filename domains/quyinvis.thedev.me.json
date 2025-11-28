@@ -1,0 +1,14 @@
+{
+  "subdomain": "quyinvis",
+  "domain": "thedev.me",
+  "email_or_discord": "quyinvis",
+  "github_username": "publiohodgson23-ui",
+  "description": "This subdomain will be used for my personal portfolio website. I plan to showcase my software development projects, skills, and professional experience to share with the community and potential employers.",
+  "records": {
+    "NS": [
+      "kiki.bunny.net",
+      "coco.bunny.net"
+    ]
+  },
+  "proxied": false
+}
