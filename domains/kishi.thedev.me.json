@@ -1,0 +1,13 @@
+{
+  "subdomain": "kishi",
+  "domain": "thedev.me",
+  "email_or_discord": "kishinary@gmail.com",
+  "github_username": "Kishinary",
+  "description": "I want to make a CV Website",
+
+  "records": {
+    "CNAME": ["my-cv-website-eight.vercel.app"],
+  },
+
+  "proxied": false
+}
