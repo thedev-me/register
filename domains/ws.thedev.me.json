@@ -6,7 +6,7 @@
   "description": "Use for self hosted service",
 
   "records": {
-    "NS":    ["ns1.onii.pp.ua", "ns2.onii.pp.ua"],
+    "NS":    ["ns1.onii.pp.ua", "ns2.onii.pp.ua"]
     },
 
   "proxied": false
