@@ -1,0 +1,13 @@
+{
+  "subdomain": "ws",
+  "domain": "thedev.me",
+  "email_or_discord": "hoangxg4@gmail.com",
+  "github_username": "hoangxg4",
+  "description": "Use for self hosted service",
+
+  "records": {
+    "NS":    ["ns1.onii.pp.ua", "ns2.onii.pp.ua"]
+    },
+
+  "proxied": false
+}
