@@ -1,0 +1,13 @@
+{
+  "subdomain": "ngoctrungit",
+  "domain": "thedev.me",
+  "email_or_discord": "dangngoctrung1806@gmail.com",
+  "github_username": "dangngoctrung1806",
+  "description": "My personal development server hosted on AWS EC2.",
+
+  "records": {
+    "A": ["107.20.201.206"]
+  },
+
+  "proxied": false
+}
