@@ -28,9 +28,9 @@ jobs:
           tar -xzf dnscontrol.tar.gz
           sudo mv dnscontrol /usr/local/bin/
 
-     # - name: Create credentials file
-     #   run: |
-     #     echo '{"cloudflare":{"TYPE":"CLOUDFLAREAPI","apitoken":"${{ secrets.CLOUDFLARE_API_TOKEN }}","accountid":"${{ secrets.CLOUDFLARE_ACCOUNT_ID }}"}}' > ./creds.json
+      - name: Create credentials file
+        run: |
+          echo '{"cloudflare":{"TYPE":"CLOUDFLAREAPI","apitoken":"${{ secrets.CLOUDFLARE_API_TOKEN }}","accountid":"${{ secrets.CLOUDFLARE_ACCOUNT_ID }}"}}' > ./creds.json
           
       - name: Run verification from DNSControl
         run: |
