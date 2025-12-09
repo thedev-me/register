@@ -5,7 +5,7 @@
   "github_username": "drsatanic",
   "description": "For testing projects to use in educational project.",
   "records": {
-      "CNAME": [ "drsatanic.netlify.app" ]
+      "CNAME": [ "drsatanic.github.io" ]
   },
   "proxied": true
 }
