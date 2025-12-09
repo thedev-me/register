@@ -6,7 +6,7 @@
   "description": "For testing projects to use in educational project.",
   "records": {
     "CNAME": [
-      "drsatanic.github.io"
+      "drsatanic.netlify.app"
     ]
   },
   "proxied": false
