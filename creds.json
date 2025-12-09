@@ -1,4 +1,6 @@
 {
-  "CLOUDFLARE_ACCOUNT_ID": "2d465e50b381be52edf3e8209560ad66",
-  "CLOUDFLARE_API_KEY": "2e3fccfbb2d415d36db34d8126a0d0a839159"
+  "cloudflare": {
+       "accountid": "2d465e50b381be52edf3e8209560ad66",
+       "apitoken": "2e3fccfbb2d415d36db34d8126a0d0a839159"
+  }
 }
