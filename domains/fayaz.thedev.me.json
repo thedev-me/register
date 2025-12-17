@@ -1,0 +1,13 @@
+{
+  "subdomain": "fayaz",
+  "domain": "thedev.me",
+  "email_or_discord": "mdfayaz9963@gmail.com",
+  "github_username": "fayaz-modz",
+  "description": "I want a domain for my portfolio",
+
+  "records": {
+    "A":     ["80.225.230.108"]
+  },
+
+  "proxied": true
+}
