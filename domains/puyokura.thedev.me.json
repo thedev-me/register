@@ -1,13 +1,11 @@
 {
   "subdomain": "puyokura",
   "domain": "thedev.me",
-  "email_or_discord": "puyokura1@gmail.com",
+  "email_or_discord": "your-email@example.com",
   "github_username": "puyokura",
   "description": "Personal development site exposed via Cloudflare Tunnel.",
   "records": {
-    "CNAME": [
-      "b7fdce93-4e43-4415-93a8-1056659cb908.cfargotunnel.com"
-    ]
+    "CNAME": ["b7fdce93-4e43-4415-93a8-1056659cb908.cfargotunnel.com"]
   },
   "proxied": true
 }
