@@ -1,7 +1,7 @@
 {
   "subdomain": "deathnote",
   "domain": "thedev.me",
-  "public_email": "drchanmp@proton.me",
+  "email_or_discord": "drchanmp@proton.me",
   "github_username": "adminoath",
   "description": "For open source projects",
 
@@ -10,8 +10,7 @@
       "ns1.hostry.com",
       "ns2.hostry.com",
       "ns3.hostry.com",
-      "ns4.hostry.com",
-      "ns5.hostry.com"
+      "ns4.hostry.com"
     ]
   },
   "proxied": true
