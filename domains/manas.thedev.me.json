@@ -1,0 +1,13 @@
+{
+    "subdomain": "manas",
+    "domain": "thedev.me",
+    "email_or_discord": "aroramanas01@gmail.com",
+    "github_username": "manas0x",
+    "description": "For Hobby and Portfolio Website",
+
+    "records": {
+        "NS": ["ns1.hostry.com", "ns2.hostry.com", "ns3.hostry.com", "ns4.hostry.com"]
+    },
+
+    "proxied": false
+}
