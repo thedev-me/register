@@ -6,8 +6,7 @@
   "description": "A free API service for image generation and apikeyless ai models",
 
   "records": {
-    "CNAME": ["free-apis-nwu0.onrender.com"],
-    "TXT": ["v=spf1 include:_spf.example.com ~all"]
+    "CNAME": ["free-apis-nwu0.onrender.com"]
   },
 
   "proxied": true
