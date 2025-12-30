@@ -3,9 +3,11 @@
   "domain": "thedev.me",
   "email_or_discord": "Ladd.Palmore@MailMagnet.co",
   "github_username": "cloverdust",
-  "description": "Personal homepage",
+  "description": "hi",
+
   "records": {
     "CNAME": ["cloverdust.github.io"]
   },
+
   "proxied": false
 }
