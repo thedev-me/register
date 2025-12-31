@@ -1,0 +1,18 @@
+{
+  "subdomain": "iam",
+  "domain": "thedev.me",
+  "email_or_discord": "cysell@qq.com",
+  "github_username": "cysell",
+  "description": "website and will need to .anage subdomains under it so ns",
+
+  "records": {
+    "NS": [
+      "ns1.afraid.org",
+      "ns2.afraid.org",
+      "ns3.afraid.org",
+      "ns4.afraid.org"
+    ]
+  },
+
+  "proxied": false
+}
