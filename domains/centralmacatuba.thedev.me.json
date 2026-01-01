@@ -6,8 +6,7 @@
   "description": "Central Macatuba, site comunitario da cidade",
 
   "records": {
-    "CNAME": ["centralmacatuba.eu.org"],
-    "NS":    ["dns.centralmacatuba.eu.org"]
+    "NS":    ["ns1.dns.centralmacatuba.eu.org", "ns2.dns.centralmacatuba.eu.org"]
   },
 
   "proxied": true
