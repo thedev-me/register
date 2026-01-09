@@ -1,0 +1,13 @@
+{
+  "subdomain": "omar",
+  "domain": "thedev.me",
+  "email_or_discord": "omr.omr163@gmail.com",
+  "github_username": "o69dn",
+  "description": "Personal portfolio or project hosted on Netlify",
+
+  "records": {
+    "CNAME": ["asrefly.netlify.app"]
+  },
+
+  "proxied": false
+}
