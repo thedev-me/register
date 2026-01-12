@@ -1,0 +1,13 @@
+{
+  "subdomain": "sunilkumar",
+  "domain": "thedev.me",
+  "email_or_discord": "realsunil",
+  "github_username": "realsunil",
+  "description": "Portfolio and gaming projects by Sunil",
+
+  "records": {
+    "CNAME": ["sunilkumar.pages.dev"]
+  },
+
+  "proxied": true
+}
