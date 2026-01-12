@@ -6,7 +6,8 @@
   "description": "for some stuff + trying stuf 2.0f",
 
   "records": {
-    "CNAME": ["oliik2013.github.io"]
+    "NS": ["freedns1.registrar-servers.com", "freedns2.registrar-servers.com", "freedns3.registrar-servers.com", "freedns4.registrar-servers.com", "freedns5.registrar-servers.com"],
+    "TXT": ["h47642f08eb034ac9b3ae3f3bd62cd64d"]
   },
 
   "proxied": false
