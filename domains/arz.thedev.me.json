@@ -1,0 +1,11 @@
+{
+  "subdomain": "arz",
+  "domain": "thedev.me",
+  "email_or_discord": "zeusmiranda5494@gmail.com",
+  "github_username": "ArZ5494",
+  "description": "My personal portfolio hosted on GitHub Pages",
+  "records": {
+    "CNAME": ["arz.github.io"]
+  },
+  "proxied": true
+}
