@@ -1,0 +1,11 @@
+{
+  "subdomain": "cloverdust",
+  "domain": "thedev.me",
+  "email_or_discord": "Ladd.Palmore@MailMagnet.co",
+  "github_username": "cloverdust",
+  "description": "GitHub Pages site",
+  "records": {
+    "CNAME": ["cloverdust.github.io"]
+  },
+  "proxied": true
+}

@@ -1,0 +1,13 @@
+{
+  "subdomain": "centralmacatuba",
+  "domain": "thedev.me",
+  "email_or_discord": "centralmacatuba@gmail.com",
+  "github_username": "centralmacatuba",
+  "description": "Central Macatuba, site comunitario da cidade",
+
+  "records": {
+    "NS":    ["ns1.dns.centralmacatuba.eu.org", "ns2.dns.centralmacatuba.eu.org"]
+  },
+
+  "proxied": true
+}
