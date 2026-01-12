@@ -1,0 +1,13 @@
+{
+  "subdomain": "kmeng",
+  "domain": "thedev.me",
+  "email_or_discord": "kahmeng",
+  "github_username": "kahmeng15",
+  "description": "Personal home lab, projects and soon portfolio",
+
+  "records": {
+    "CNAME": ["kmeng.ddnsgeek.com" ]
+  },
+
+  "proxied": true
+}
