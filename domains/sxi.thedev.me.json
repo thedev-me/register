@@ -1,0 +1,13 @@
+{
+  "subdomain": "sxi",
+  "domain": "thedev.me",
+  "email_or_discord": "oshidev@proton.me  ",
+  "github_username": "Sxinar",
+  "description": "Sxinar astro blog domain",
+
+  "records": {
+    "CNAME": ["sxinar.github.io"],
+  },
+
+  "proxied": true
+}
