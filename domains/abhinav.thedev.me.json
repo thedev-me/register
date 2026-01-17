@@ -5,7 +5,8 @@
   "github_username": "k2ocabhinav",
   "description": "Personal Portfolio for Backend Developer",
   "records": {
-    "CNAME": ["portfolio-eight-teal-79.vercel.app"]
+    "CNAME": ["2daff4ddd2c1f441.vercel-dns-017.com."],
+    "TXT": ["vc-domain-verify=abhinav.thedev.me,5f52465a4f789a33148d"]
   },
   "proxied": false
 }
