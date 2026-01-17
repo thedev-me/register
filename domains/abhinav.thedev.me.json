@@ -1,0 +1,11 @@
+{
+  "subdomain": "abhinav",
+  "domain": "thedev.me",
+  "email_or_discord": "k2ocabhinav22@gmail.com",
+  "github_username": "k2ocabhinav",
+  "description": "Personal Portfolio for Backend Developer",
+  "records": {
+    "CNAME": ["portfolio-eight-teal-79.vercel.app"]
+  },
+  "proxied": false
+}
