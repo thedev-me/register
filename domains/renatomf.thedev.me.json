@@ -1,0 +1,11 @@
+{
+  "subdomain": "renatomf",
+  "domain": "thedev.me",
+  "github_username": "renatomf",
+  "email_or_discord": "renatomardev@gmail.com",
+  "description": "Personal Website",
+  "records": {
+    "A": ["0.0.0.0"]
+  },
+  "proxied": false
+}
