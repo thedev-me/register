@@ -2,10 +2,10 @@
   "subdomain": "brendondev",
   "domain": "thedev.me",
   "email_or_discord": "seu-email@email.com",
-  "github_username": "brendondev",
+  "github_username": "SEU-USERNAME-GITHUB-AQUI",
   "description": "Portfólio de desenvolvedor web",
   "records": {
-    "CNAME": ["brendondev.github.io"]
+    "A": ["185.199.108.153", "185.199.109.153", "185.199.110.153", "185.199.111.153"]
   },
   "proxied": false
 }
