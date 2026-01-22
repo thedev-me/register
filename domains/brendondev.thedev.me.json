@@ -1,0 +1,16 @@
+{
+  "subdomain": "brendondev",
+  "domain": "thedev.me",
+  "email_or_discord": "brendonlima@gmail.com",
+  "github_username": "brendondev",
+  "description": "Portfólio de desenvolvedor web",
+  "records": {
+    "A": [
+      "185.199.108.153",
+      "185.199.109.153",
+      "185.199.110.153",
+      "185.199.111.153"
+    ]
+  },
+  "proxied": false
+}
