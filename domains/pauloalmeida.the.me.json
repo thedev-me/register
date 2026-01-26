@@ -1,0 +1,12 @@
+{
+  "subdomain": "pauloalmeida",
+  "domain": "thedev.me",
+  "email_or_discord": "me.pauloalmeida@gmail.com",
+  "github_username": "owhenrique",
+  "description": "Portifolio Website",
+  "records": {
+    "CNAME": ["7314e3af3c90b081.vercel-dns-017.com."],
+    "TXT": ["vc-domain-verify=pauloalmeida.thedev.me,128a48c6d251fe780cc6"]
+  },
+  "proxied": false
+}
