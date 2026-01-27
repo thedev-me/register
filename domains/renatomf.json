@@ -1,1 +1,10 @@
 
+{
+    "owner": {
+        "username": "renatomf",
+        "email": "renatomardev@gmail.com"
+    },
+    "records": {
+        "CNAME": "renatomf.gitHub.io"
+    }
+}
