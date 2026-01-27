@@ -1,0 +1,12 @@
+{
+  "subdomain": "albierygs",
+  "domain": "thedev.me",
+  "email_or_discord": "albierygoncalves2@gmail.com",
+  "github_username": "albierygs",
+  "description": "Personal portfolio of software development hosted on GitHub Pages.",
+
+  "records": {
+    "CNAME": ["https://albierygs.github.io/albierygs/"]
+  },
+  "proxied": true
+}
