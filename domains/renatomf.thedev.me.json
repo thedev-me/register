@@ -8,3 +8,18 @@
     "CNAME": "cv-1mf3lhsjj-renatomf76s-projects.vercel.app"
   }
 }
+
+
+{
+  "subdomain": "renatomf",
+  "domain": "thedev.me",
+  "email_or_discord": "renatomardev@gmail.com",
+  "github_username": "renatomf",
+  "description": "Personal Portifolio Website",
+
+  "records": {
+    "CNAME": "cv-1mf3lhsjj-renatomf76s-projects.vercel.app"
+  },
+
+  "proxied": true
+}
