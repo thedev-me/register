@@ -1,0 +1,11 @@
+{
+  "subdomain": "johnmarshall",
+  "domain": "thedev.me",
+  "email_or_discord": "johnrobertmarshall1@gmail.com",
+  "github_username": "johnrobertmarshall1",
+  "description": "Personal website and contact card for John R. Marshall",
+  "records": {
+    "CNAME": ["johnrobertmarshall1.github.io"]
+  },
+  "proxied": true
+}
