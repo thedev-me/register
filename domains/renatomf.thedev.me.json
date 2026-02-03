@@ -1,0 +1,11 @@
+{
+  "subdomain": "renatomf",
+  "domain": "thedev.me",
+  "email_or_discord": "renatomardev@gmail.com",
+  "github_username": "renatomf",
+  "description": "Personal development site/CV hosted on Vercel.",
+  "records": {
+    "CNAME": ["cv-7ewu03m8g-renatomf76s-projects.vercel.app"]
+  },
+  "proxied": false
+}
