@@ -1,0 +1,13 @@
+{
+  "subdomain": "docemantraspa",
+  "domain": "thedev.me",
+  "email_or_discord": "celsojrl@proton.me",
+  "github_username": "celsojrladislau",
+  "description": "Site do Doce Mantra Spa - espaço de bem-estar e relaxamento",
+
+  "records": {
+    "CNAME": ["celsojuniorladislau.github.io/site-doce-mantra"]
+  },
+
+  "proxied": false
+}
