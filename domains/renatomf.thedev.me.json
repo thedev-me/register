@@ -5,7 +5,9 @@
   "github_username": "renatomf",
   "description": "Personal Website",
   "records": {
-    "CNAME": "cv-7ewu03m8g-renatomf76s-projects.vercel.app"
+    "CNAME": [
+      "cv-7ewu03m8g-renatomf76s-projects.vercel.app"
+    ]
   },
   "proxied": false
 }
