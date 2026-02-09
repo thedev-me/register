@@ -1,0 +1,11 @@
+{
+  "subdomain": "erp",
+  "domain": "thedev.me",
+  "email_or_discord": "steveyi168@gmail.com",
+  "github_username": "steve-gmail",
+  "description": "ERP platform demo site for testing",
+  "records": {
+    "A": ["116.63.178.245"]
+  },
+  "proxied": true
+}
