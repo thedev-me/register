@@ -1,0 +1,13 @@
+{
+  "subdomain": "sonchau",
+  "domain": "thedev.me",
+  "email_or_discord": "razi.contact3@gmail.com",
+  "github_username": "AbdelhakRazi",
+  "description": "A brief description of the purpose of the subdomain",
+
+  "records": {
+    "CNAME": ["portfolio.razi-contact3.workers.dev"],
+  },
+
+  "proxied": true
+}
