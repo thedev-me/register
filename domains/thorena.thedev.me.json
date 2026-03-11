@@ -1,0 +1,19 @@
+{
+  "subdomain": "thorena",
+  "domain": "thedev.me",
+  "email_or_discord": "wolfo89+foexo@protonmail.com",
+  "github_username": "ririko5834",
+  "description": "Personal website and email service",
+
+  "records": {
+"NS": [
+            "ns1.he.net",
+            "ns2.he.net",
+            "ns3.he.net",
+            "ns4.he.net",
+            "ns5.he.net"
+        ]
+  },
+
+  "proxied": false
+}
