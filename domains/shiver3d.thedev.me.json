@@ -6,7 +6,7 @@
     "description": "For my personal portfolio website",
     "records": {
         "CNAME": [
-            "1f6a0241cd0b6e8e.vercel-dns-017.com."
+            "1f6a0241cd0b6e8e.vercel-dns-017.com"
         ],
         "TXT":   ["vc-domain-verify=shiver3d.thedev.me,be143e47039f4e87f1b4"]
     },
