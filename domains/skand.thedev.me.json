@@ -1,0 +1,16 @@
+{
+  "subdomain": "skand",
+  "domain": "thedev.me",
+  "email_or_discord": "skand0001@gmail.com",
+  "github_username": "geekskand",
+  "description": "Personal portfolio and poetry website",
+
+  "records": {
+    "CNAME": ["ec8ddc6c791eec08.vercel-dns-017.com"],
+    "TXT": [
+      "_vercel.vc-domain-verify=skand.thedev.me,0bc6ca839ce85c43d3e8"
+    ]
+  },
+
+  "proxied": true
+}
