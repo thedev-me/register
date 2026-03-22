@@ -1,0 +1,12 @@
+{
+  "subdomain": "victor",
+  "domain": "thedev.me",
+  "email_or_discord": "gifpa45we@gmail.com",
+  "github_username": "VictorVzx",
+  "description": "This subdomain will be used for my portfolio, and for job applying purposes",
+
+  "records": {
+        "CNAME": ["portfoliovzx.vercel.app"]
+  },
+  "proxied": true
+}
