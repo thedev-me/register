@@ -1,0 +1,14 @@
+{
+  "subdomain": "studytool",
+  "domain": "thedev.me",
+  "email_or_discord": "dev@studytool.abrdns.com",
+  "github_username": "BatGamesDev",
+  "description": "The easiest, quickest, most straight-forward study site out there. Create flashcards, take quizzes, track progress, and more! Built to empower learning.",
+
+  "records": {
+    "CNAME": ["3b789df76ec68047.vercel-dns-017.com."],
+    "TXT":   ["vc-domain-verify=studytool.thedev.me,19791c1fa8f14a081295"]
+  },
+
+  "proxied": false
+}
