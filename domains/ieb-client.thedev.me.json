@@ -1,0 +1,13 @@
+{
+  "subdomain": "ieb-client",
+  "domain": "thedev.me",
+  "email_or_discord": "iebgamesstudio@gmail.com",
+  "github_username": "iebgames",
+  "description": "A Modern Hacked Minecraft Client With Over 100+ Hacks!",
+
+  "records": {
+    "CNAME": ["iebgames.github.io"]
+  },
+
+  "proxied": true
+}
