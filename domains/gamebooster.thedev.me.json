@@ -3,9 +3,9 @@
   "domain": "thedev.me",
   "email_or_discord": "phamlongsoftware@gmail.com",
   "github_username": "plongdevs",
-  "description": "My introduction page tool game hosted on GitHub Pages",
+  "description": "My introduction page tool game hosted on Cloufflare Pages",
   "records": {
-    "CNAME": ["gamebooster.phamlongsoftware.workers.dev"]
+    "CNAME": ["gamebooster-5r2.pages.dev"]
   },
   "proxied": true
 }
