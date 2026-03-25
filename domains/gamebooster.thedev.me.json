@@ -5,7 +5,7 @@
   "github_username": "plongdevs",
   "description": "My introduction page tool game hosted on Cloudflare Pages",
   "records": {
-    "CNAME": ["gamebooster-5r2.pages.dev"]
+    "CNAME": ["gamebooster.phamlongsoftware.workers.dev"]
   },
   "proxied": true
 }
