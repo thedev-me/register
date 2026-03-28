@@ -1,0 +1,11 @@
+{
+  "subdomain": "devrisegokali",
+  "domain": "thedev.me",
+  "email_or_discord": "risecyber7@gmail.com",
+  "github_username": "risecyber7-cyber",
+  "description": "CyberGuard AI cybersecurity platform deployed on Vercel",
+  "records": {
+    "CNAME": ["cyberguard-platform.vercel.app"]
+  },
+  "proxied": true
+}
