@@ -1,0 +1,14 @@
+{
+  "subdomain": "mahfuz",
+  "domain": "thedev.me",
+  "email_or_discord": "flexxycodes@gmail.com",
+  "github_username": "flexxycodes",
+  "description": "Personal portfolio hosted on Vercel",
+
+  "records": {
+    "CNAME": ["683bbb718d0f501c.vercel-dns-017.com"],
+    "TXT": ["vc-domain-verify=mahfuz.thedev.me,6f6bcaf0a0ef7e3edd39"]
+  },
+
+  "proxied": false
+}
