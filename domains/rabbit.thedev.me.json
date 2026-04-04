@@ -1,0 +1,12 @@
+{
+  "subdomain": "rabbit",
+  "domain": "thedev.me",
+  "email_or_discord": "rishurachit0077@gmail.com",
+  "github_username": "11Rabbit11",
+  "description": "Personal portfoilo or projects",
+  "records": {
+    "CNAME": ["cname.vercel-dns.com"]
+    "NS":["ns1.stackryze.com","ns2.stackryze.com"]
+  },
+  "proxied": false
+}   
