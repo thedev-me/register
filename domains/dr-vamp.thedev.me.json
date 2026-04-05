@@ -1,0 +1,17 @@
+{
+  "subdomain": "dr-vamp",
+  "domain": "thedev.me",
+  "email_or_discord": "drthesmos@proton.me",
+  "github_username": "dr-vamp",
+  "description": "For personal opensource projects and/or pages.",
+
+  "records": {
+     "NS": [
+       "ns1.dynv6.com",
+       "ns2.dynv6.com",
+       "ns3.dynv6.com"
+    ]
+  },
+
+  "proxied": false
+}
