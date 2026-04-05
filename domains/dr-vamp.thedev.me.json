@@ -7,9 +7,10 @@
 
   "records": {
      "NS": [
-       "ns1.dynv6.com",
-       "ns2.dynv6.com",
-       "ns3.dynv6.com"
+       "ns1.hostry.com",
+       "ns2.hostry.com",
+       "ns3.hostry.com",
+       "ns4.hostry.com"
     ]
   },
 
