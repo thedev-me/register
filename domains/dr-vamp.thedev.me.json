@@ -1,0 +1,18 @@
+{
+  "subdomain": "dr-vamp",
+  "domain": "thedev.me",
+  "email_or_discord": "drthesmos@proton.me",
+  "github_username": "dr-vamp",
+  "description": "For personal opensource projects and/or pages.",
+
+  "records": {
+     "NS": [
+       "ns1.hostry.com",
+       "ns2.hostry.com",
+       "ns3.hostry.com",
+       "ns4.hostry.com"
+    ]
+  },
+
+  "proxied": false
+}
