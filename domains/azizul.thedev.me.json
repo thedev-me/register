@@ -1,0 +1,14 @@
+{
+  "subdomain": "azizul",
+  "domain": "thedev.me",
+  "email_or_discord": "azizulhakim886@outlook.com",
+  "github_username": "bangujournal",
+  "description": "I want to use this subdomain to create my portfolio site",
+
+  "records": {
+    "CNAME": ["53ff8f969dc37afd.vercel-dns-017.com"],
+    "TXT":   ["vc-domain-verify=azizul.thedev.me,be66b1ffa1691f58113a"]
+  },
+
+  "proxied": false
+}
