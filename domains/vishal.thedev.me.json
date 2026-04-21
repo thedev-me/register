@@ -1,0 +1,14 @@
+{
+  "subdomain": "vishal",
+  "domain": "thedev.me",
+  "email_or_discord": "rvd31305@gmail.com",
+  "github_username": "vishal-rathod-07",
+  "description": "Vishal's portfolio website",
+
+  "records": {
+    "CNAME": ["cea4183dc5d15889.vercel-dns-017.com."],
+    "TXT":   ["vc-domain-verify=vishal.thedev.me,7ea8f058ef36acaaa74a"]
+  },
+
+  "proxied": false
+}
