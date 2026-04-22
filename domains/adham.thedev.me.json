@@ -1,0 +1,13 @@
+{
+  "subdomain": "adham",
+  "domain": "thedev.me",
+  "email_or_discord": "adhamskola2007@gmail.com",
+  "github_username": "lonely0712",
+  "description": "is going to use it for my developing hobbies and maybe in the future be a developer",
+
+  "records": {
+    "CNAME": ["lonely0712.github.io"]
+  },
+
+  "proxied": false
+}
