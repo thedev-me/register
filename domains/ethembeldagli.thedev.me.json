@@ -1,0 +1,14 @@
+{
+  "subdomain": "ethembeldagli",
+  "domain": "thedev.me",
+  "email_or_discord": "a.ethem.beldagli@gmail.com",
+  "github_username": "ethembeldagli",
+  "description": "subdomain for my portfolio",
+
+  "records": {
+    "CNAME": ["a03fcad63dd61298.vercel-dns-017.com."],
+    "TXT":   ["vc-domain-verify=ethembeldagli.thedev.me,0e37c567023b0c7f919a"]
+  },
+
+  "proxied": false
+}
