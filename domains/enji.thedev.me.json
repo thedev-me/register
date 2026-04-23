@@ -1,0 +1,13 @@
+{
+  "subdomain": "enji",
+  "domain": "thedev.me",
+  "email_or_discord": "enjisecond559@gmail.com",
+  "github_username": "nji-f",
+  "description": "to improve the web name",
+
+  "records": {
+    "CNAME": ["enji-portfolio.vercel.app"]
+  },
+
+  "proxied": true
+}
