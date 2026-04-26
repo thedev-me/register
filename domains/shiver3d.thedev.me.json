@@ -1,0 +1,14 @@
+{
+    "subdomain": "s3p",
+    "domain": "thedev.me",
+    "email_or_discord": "shiver3dcontact@gmail.com",
+    "github_username": "shiver3d",
+    "description": "For my personal portfolio website",
+    "records": {
+        "CNAME": [
+            "1f6a0241cd0b6e8e.vercel-dns-017.com"
+        ],
+        "TXT":   ["vc-domain-verify=shiver3d.thedev.me,be143e47039f4e87f1b4"]
+    },
+    "proxied": true
+}
