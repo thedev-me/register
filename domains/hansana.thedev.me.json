@@ -6,7 +6,7 @@
   "description": "Personal Portfolio Website",
 
   "records": {
-    "CNAME": ["hansana.is-a.dev"]
+    "CNAME": ["hansana-portfolio-redirect.pages.dev"]
   },
   "proxied": true
 }
