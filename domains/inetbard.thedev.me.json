@@ -1,0 +1,13 @@
+{
+  "subdomain": "inetbard",
+  "domain": "thedev.me",
+  "email_or_discord": "inetbard@gmail.com",
+  "github_username": "inetbard",
+  "description": "GitHub Pages site. is going to use it for my developing hobbies and as a visit card for HR",
+
+  "records": {
+    "CNAME": ["inetbard.github.io"]
+  },
+
+  "proxied": false
+}
