@@ -1,0 +1,16 @@
+
+{
+  "subdomain": "ai-q2a",
+  "domain": "thedev.me",
+   "github_username": "ai-q2a",
+  "description": "ai-q2a.blogspot.com",
+
+  "records": {
+    "CNAME": {
+      "ai-q2a": "ghs.google.com",
+      "5auf3ltiprui": "gv-ja5dkdduchhkaj.dv.googlehosted.com"
+    }
+  },
+
+  "proxied": false
+}
