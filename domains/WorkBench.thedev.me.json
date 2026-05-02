@@ -1,0 +1,11 @@
+{
+  "subdomain": "WorkBench",
+  "domain": "thedev.me",
+  "email_or_discord": "krishithkumaran18@gmail.com",
+  "github_username": "Krishith-2012",
+  "description": "My Vercel web project",
+  "records": {
+    "CNAME": ["cname.vercel-dns.com"]
+  },
+  "proxied": false
+}
