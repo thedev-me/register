@@ -1,0 +1,13 @@
+{
+  "subdomain": "edu",
+  "domain": "thedev.me",
+  "email_or_discord": "kahlid7373@gmail.com",
+  "github_username": "Kawrrq",
+  "description": "It is a website unblocker that unblocks websites that are blocked.",
+
+  "records": {
+    "A":     ["15.204.230.53"],
+  },
+
+  "proxied": true
+}
