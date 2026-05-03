@@ -1,0 +1,11 @@
+{
+  "subdomain": "ghole",
+  "domain": "thedev.me",
+  "email_or_discord": "amirhosseinjafari8228@gmail.com",
+  "github_username": "ahjdev",
+  "description": "Just using it",
+  "records": {
+    "NS":    ["ns1.hostiran.net", "ns2.hostiran.net"],
+  },
+  "proxied": false
+}
