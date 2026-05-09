@@ -1,0 +1,11 @@
+{
+  "subdomain": "mahdi",
+  "domain": "thedev.me",
+  "email_or_discord": "mahdiabdollahi159@gmail.com",
+  "github_username": "Mahdi-Abdollahi",
+  "description": "Welcome to my personal portfolio and blog! I'm Mahdi Abdollahi, a passionate front-end engineer with a love for crafting beautiful and functional web experiences. Here, you'll find a showcase of my projects, insights into my development process and a collection of my thoughts on development, leadership and self-development. Whether you're here to explore my work and thoughts or just want to connect, I'm glad you're here!",
+  "records": {
+    "CNAME": ["portfolio-ecru-phi-28.vercel.app"]
+  },
+  "proxied": true
+}
