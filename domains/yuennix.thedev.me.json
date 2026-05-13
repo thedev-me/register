@@ -8,8 +8,7 @@
   "records": {
   
     "MX":    ["mx1.hanami.run 10","mx2.hanami.run 20"],
-    "TXT":   ["v=spf1 include:spf.hanami.run ~all
-      "]
+    "TXT":   ["v=spf1 include:spf.hanami.run ~all"]
   },
 
   "proxied": false
