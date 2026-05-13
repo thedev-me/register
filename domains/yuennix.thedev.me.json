@@ -1,1 +1,16 @@
+{
+  "subdomain": "yuennix",
+  "domain": "thedev.me",
+  "email_or_discord": "yuennix",
+  "github_username": "yuennix",
+  "description": "A brief description of the purpose of the subdomain",
 
+  "records": {
+  
+    "MX":    ["mx1.hanami.run 10","mx2.hanami.run 20"],
+    "TXT":   ["v=spf1 include:spf.hanami.run ~all
+      "]
+  },
+
+  "proxied": false
+}
