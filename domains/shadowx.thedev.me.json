@@ -6,7 +6,8 @@
   "description": "ShadowX - A stealth web proxy for bypassing internet censorship. Powered by Vercel.",
 
   "records": {
-    "CNAME": ["cname.vercel-dns.com"]
+    "A": ["216.198.79.1"],
+    "TXT": ["vc-domain-verify=shadowx.is-a.dev,fb49a11a79aa99d77700"]
   },
 
   "proxied": false
