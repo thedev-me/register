@@ -1,0 +1,1 @@
+{"subdomain":"codework","domain":"thedev.me","email_or_discord":"484448192@qq.com","github_username":"xintiaoobao","description":"Personal development workspace for email","records":{"MX":[{"target":"mx1.improvmx.com","priority":10},{"target":"mx2.improvmx.com","priority":20}],"TXT":["v=spf1 include:spf.improvmx.com ~all"]},"proxied":false}
